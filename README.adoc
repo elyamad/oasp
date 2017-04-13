@@ -16,9 +16,11 @@ If you want to install full OASP IDE and get both server and client code please 
 
 1. Open console.bat and check out the git repositories you need to work on into $projectLoc\workspaces\main. with the following commands:
 
+....
 cd workspaces/main
 git clone --recursive https://github.com/oasp/oasp4j.git
 git clone https://github.com/oasp/oasp4js.git
+....
 
 2. Run the script $projectLoc\update-all-workspaces.bat.
 
@@ -35,19 +37,23 @@ Once started, the OASP server applications runs on http://localhost:8081 with /o
 i. Run console.bat.
 ii. Now call the following commands:
 
+....
 cd workspaces/main/oasp4js/
 npm install -g gulp
 npm install -g bower
 npm install
 cd java
 mvn install
+....
 
 If [INFO] BUILD SUCCESS → next step
 
 iii. You can then extract the client from oasp4js/java/target/oasp4js-sample-*-web.zip into oasp4j/oasp4j-samples/oaps4j-sample-server/src/main/webapp/jsclient. You may have to create the folder jsclient by yourself. Restart your tomcat and open http://localhost:8081/oasp4j-sample-server/ or for simpler development run both tomcat and a grunt-server as overlay via:
 
+....
 cd workspaces/main/oasp4js
 gulp serve
+....
 
 A new tab in your webbrowser should open and you can try to sign in.
 
