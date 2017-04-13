@@ -1,0 +1,8 @@
+findbugs,false,sonar-findbugs-plugin-2.4.jar|bb0bf263ef1e0d56f569878732060cc9
+cpd,true,sonar-cpd-plugin-4.5.6.jar|55ca7929934de17bf775fae20be91568
+core,true,sonar-core-plugin-4.5.6.jar|6c1dc66b71ee5f61048ae60c1c5845f6
+java,false,sonar-java-plugin-2.4.jar|14dd9176580d1cd48116015a85ee4f39
+dbcleaner,true,sonar-dbcleaner-plugin-4.5.6.jar|94f2912c612b6a85e3a8c10759e15ca0
+l10nen,true,sonar-l10n-en-plugin-4.5.6.jar|acdad7cf2b8ee9b4cc7da8bad9e843b4
+emailnotifications,true,sonar-email-notifications-plugin-4.5.6.jar|3ec8ab913a9ded5d38807a4f437f0ca3
+design,true,sonar-design-plugin-4.5.6.jar|6858390fab9e7e9e781bd17a837e32ce

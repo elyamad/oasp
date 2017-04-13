@@ -1,0 +1,63 @@
+2016-04-20 21:21:07,838 WARN  [SoapUI] Missing folder [D:\Users\pbelorka\ext] for external libraries
+2016-04-20 21:21:08,171 INFO  [DefaultSoapUICore] initialized soapui-settings from [D:\Users\pbelorka\soapui-settings.xml]
+2016-04-20 21:21:41,186 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2016-04-20 21:21:41,301 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2016-04-20 21:21:41,313 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2016-04-20 21:21:41,314 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2016-04-20 21:21:41,315 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2016-04-20 21:21:41,316 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2016-04-20 21:21:41,319 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2016-04-20 21:21:41,322 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2016-04-20 21:21:41,323 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2016-04-20 21:21:41,326 INFO  [SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2016-04-20 21:21:42,360 INFO  [SchemaUtils] Loading schema types from [http://localhost:8080/Hello/services/Hello?wsdl]
+2016-04-20 21:21:42,360 INFO  [SchemaUtils] Getting schema http://localhost:8080/Hello/services/Hello?wsdl
+2016-04-20 21:21:43,090 INFO  [WsdlImporter] Finding importer for {http://t320.open.ac.uk}HelloSoapBinding
+2016-04-20 21:21:43,109 INFO  [WsdlImporter] Importing binding {http://t320.open.ac.uk}HelloSoapBinding
+2016-04-20 21:21:43,580 INFO  [Soap11HttpBindingImporter] importing endpoint http://localhost:8080/Hello/services/Hello
+2016-04-20 21:21:43,701 INFO  [Soap11HttpBindingImporter] importing operation helloName
+2016-04-20 21:22:00,356 ERROR [SoapUI] An error occured [Tokenizing invalid line: 1], see error log for details
+2016-04-20 21:22:00,360 ERROR [errorlog] java.lang.IllegalArgumentException: Tokenizing invalid line: 1
+java.lang.IllegalArgumentException: Tokenizing invalid line: 1
+	at org.syntax.jedit.tokenmarker.TokenMarker.markTokens(TokenMarker.java:47)
+	at org.syntax.jedit.TextAreaPainter.paintSyntaxLine(TextAreaPainter.java:629)
+	at org.syntax.jedit.TextAreaPainter.paintLine(TextAreaPainter.java:598)
+	at org.syntax.jedit.TextAreaPainter.paint(TextAreaPainter.java:443)
+	at javax.swing.JComponent.paintChildren(JComponent.java:888)
+	at javax.swing.JComponent.paint(JComponent.java:1064)
+	at javax.swing.JComponent.paintChildren(JComponent.java:888)
+	at javax.swing.JComponent.paint(JComponent.java:1064)
+	at javax.swing.JComponent.paintToOffscreen(JComponent.java:5232)
+	at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1529)
+	at javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1452)
+	at javax.swing.RepaintManager.paint(RepaintManager.java:1249)
+	at javax.swing.JComponent._paintImmediately(JComponent.java:5180)
+	at javax.swing.JComponent.paintImmediately(JComponent.java:4991)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:808)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:796)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:796)
+	at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:769)
+	at javax.swing.RepaintManager.prePaintDirtyRegions(RepaintManager.java:718)
+	at javax.swing.RepaintManager.access$1100(RepaintManager.java:62)
+	at javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1677)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+2016-04-20 21:22:00,412 INFO  [AbstractHttpRequestDesktopPanel] Got response for [HelloSoapBinding.helloName:Request 1] in 99ms (381 bytes)
+2016-04-21 19:40:07,418 INFO  [WsdlProject] Saved project [hello] to [D:\Users\pbelorka\Downloads\hello-soapui-project.xml - 5635 bytes
+2016-04-21 19:41:34,518 INFO  [WsdlProject] Saved project [hello] to [D:\Users\pbelorka\Downloads\hello-soapui-project.xml - 5635 bytes
+2016-04-25 11:35:19,733 INFO  [WsdlProject] Saved project [hello] to [D:\Users\pbelorka\Downloads\hello-soapui-project.xml - 7302 bytes
+2016-04-25 11:35:25,195 INFO  [WorkspaceImpl] Saved workspace to [D:\IDE\IDE\oaspide\workspaces\pri\default-soapui-workspace.xml]

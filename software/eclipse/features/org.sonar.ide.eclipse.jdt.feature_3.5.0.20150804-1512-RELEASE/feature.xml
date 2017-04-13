@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.sonar.ide.eclipse.jdt.feature"
+      label="%feature_name"
+      version="3.5.0.20150804-1512-RELEASE"
+      provider-name="%provider_name"
+      plugin="org.sonar.ide.eclipse.ui">
+
+   <description url="http://redirect.sonarsource.com/doc/sonar-eclipse.html">
+      %description
+   </description>
+
+   <copyright url="http://www.sonarsource.com">
+      %copyright
+   </copyright>
+
+   <license url="http://www.gnu.org/licenses/lgpl.txt">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.sonar.ide.eclipse.feature" version="3.5.0.qualifier"/>
+   </requires>
+
+   <plugin
+         id="org.sonar.ide.eclipse.core"
+         download-size="83"
+         install-size="157"
+         version="3.5.0.20150804-1512-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonar.ide.eclipse.ui"
+         download-size="177"
+         install-size="319"
+         version="3.5.0.20150804-1512-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonar.ide.eclipse.jdt"
+         download-size="9"
+         install-size="14"
+         version="3.5.0.20150804-1512-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonar.ide.eclipse.wsclient"
+         download-size="17"
+         install-size="29"
+         version="3.5.0.20150804-1512-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonar.ide.eclipse.common"
+         download-size="6"
+         install-size="7"
+         version="3.5.0.20150804-1512-RELEASE"
+         unpack="false"/>
+
+</feature>

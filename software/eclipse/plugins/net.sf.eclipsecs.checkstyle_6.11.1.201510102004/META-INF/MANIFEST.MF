@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: net.sf.eclipsecs.checkstyle
+Archiver-Version: Plexus Archiver
+Built-By: Lars
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Vendor: http://eclipse-cs.sf.net/
+Export-Package: .,antlr; uses:="antlr.collections.impl,  antlr.debug, 
+  antlr.ASdebug,  antlr.collections",antlr.ASdebug;uses:="antlr",antlr
+ .actions.cpp;uses:="antlr.collections.impl,antlr",antlr.actions.cshar
+ p;uses:="antlr.collections.impl,antlr",antlr.actions.java;uses:="antl
+ r.collections.impl,antlr",antlr.actions.python;uses:="antlr.collectio
+ ns.impl,antlr",antlr.build,antlr.collections;uses:="antlr",antlr.coll
+ ections.impl;uses:="antlr.collections,antlr",antlr.debug;uses:="antlr
+ .collections.impl,antlr",antlr.debug.misc; uses:="javax.swing.tree,  
+ javax.swing,  antlr.collections,  javax.swing.event",antlr.preprocess
+ or;uses:="antlr.collections.impl,antlr",com.google.common.annotations
+ ,com.google.common.base,com.google.common.base.internal,com.google.co
+ mmon.cache,com.google.common.collect,com.google.common.escape,com.goo
+ gle.common.eventbus,com.google.common.hash,com.google.common.html,com
+ .google.common.io,com.google.common.math,com.google.common.net,com.go
+ ogle.common.primitives,com.google.common.reflect,com.google.common.ut
+ il.concurrent,com.google.common.xml,com.google.thirdparty.publicsuffi
+ x,com.puppycrawl.tools.checkstyle; uses:="com.puppycrawl.tools.checks
+ tyle.api,  org.apache.tools.ant.types,  org.apache.tools.ant,  org.xm
+ l.sax",com.puppycrawl.tools.checkstyle.ant,com.puppycrawl.tools.check
+ style.api; uses:="org.apache.commons.beanutils.converters,  org.apach
+ e.commons.logging,  com.puppycrawl.tools.checkstyle.grammars,  antlr.
+ collections,  antlr,  org.xml.sax.helpers,  org.xml.sax",com.puppycra
+ wl.tools.checkstyle.checks;uses:="com.puppycrawl.tools.checkstyle.api
+ ",com.puppycrawl.tools.checkstyle.checks.annotation,com.puppycrawl.to
+ ols.checkstyle.checks.blocks;uses:="com.puppycrawl.tools.checkstyle.a
+ pi,com.puppycrawl.tools.checkstyle.checks",com.puppycrawl.tools.check
+ style.checks.coding;uses:="com.puppycrawl.tools.checkstyle.api,com.pu
+ ppycrawl.tools.checkstyle.checks",com.puppycrawl.tools.checkstyle.che
+ cks.design;uses:="com.puppycrawl.tools.checkstyle.api,com.puppycrawl.
+ tools.checkstyle.checks",com.puppycrawl.tools.checkstyle.checks.heade
+ r;uses:="com.puppycrawl.tools.checkstyle.api",com.puppycrawl.tools.ch
+ eckstyle.checks.imports;uses:="com.puppycrawl.tools.checkstyle.api,co
+ m.puppycrawl.tools.checkstyle.checks,org.xml.sax",com.puppycrawl.tool
+ s.checkstyle.checks.indentation;uses:="com.puppycrawl.tools.checkstyl
+ e.api",com.puppycrawl.tools.checkstyle.checks.javadoc;uses:="com.pupp
+ ycrawl.tools.checkstyle.api,com.puppycrawl.tools.checkstyle.checks",c
+ om.puppycrawl.tools.checkstyle.checks.metrics;uses:="com.puppycrawl.t
+ ools.checkstyle.api",com.puppycrawl.tools.checkstyle.checks.modifier;
+ uses:="com.puppycrawl.tools.checkstyle.api",com.puppycrawl.tools.chec
+ kstyle.checks.naming;uses:="com.puppycrawl.tools.checkstyle.api,com.p
+ uppycrawl.tools.checkstyle.checks",com.puppycrawl.tools.checkstyle.ch
+ ecks.regexp,com.puppycrawl.tools.checkstyle.checks.sizes;uses:="com.p
+ uppycrawl.tools.checkstyle.api",com.puppycrawl.tools.checkstyle.check
+ s.whitespace;uses:="com.puppycrawl.tools.checkstyle.api,com.puppycraw
+ l.tools.checkstyle.checks",com.puppycrawl.tools.checkstyle.doclets;us
+ es:="com.sun.javadoc",com.puppycrawl.tools.checkstyle.filters;uses:="
+ com.puppycrawl.tools.checkstyle.api,org.xml.sax",com.puppycrawl.tools
+ .checkstyle.grammars;uses:="antlr.collections.impl,antlr.collections,
+ antlr",com.puppycrawl.tools.checkstyle.grammars.javadoc,com.puppycraw
+ l.tools.checkstyle.gui,com.puppycrawl.tools.checkstyle.utils,org.antl
+ r.v4.runtime,org.antlr.v4.runtime.atn,org.antlr.v4.runtime.dfa,org.an
+ tlr.v4.runtime.misc,org.antlr.v4.runtime.tree,org.antlr.v4.runtime.tr
+ ee.pattern,org.antlr.v4.runtime.tree.xpath,org.apache.commons.beanuti
+ ls,org.apache.commons.beanutils.converters,org.apache.commons.beanuti
+ ls.expression,org.apache.commons.beanutils.locale,org.apache.commons.
+ beanutils.locale.converters,org.apache.commons.cli,org.apache.commons
+ .collections,org.apache.commons.collections.bag,org.apache.commons.co
+ llections.bidimap,org.apache.commons.collections.buffer,org.apache.co
+ mmons.collections.collection,org.apache.commons.collections.comparato
+ rs,org.apache.commons.collections.functors,org.apache.commons.collect
+ ions.iterators,org.apache.commons.collections.keyvalue,org.apache.com
+ mons.collections.list,org.apache.commons.collections.map,org.apache.c
+ ommons.collections.set,org.apache.commons.lang3,org.apache.commons.la
+ ng3.builder,org.apache.commons.lang3.concurrent,org.apache.commons.la
+ ng3.event,org.apache.commons.lang3.exception,org.apache.commons.lang3
+ .math,org.apache.commons.lang3.mutable,org.apache.commons.lang3.refle
+ ct,org.apache.commons.lang3.text,org.apache.commons.lang3.text.transl
+ ate,org.apache.commons.lang3.time,org.apache.commons.lang3.tuple,org.
+ apache.commons.logging,org.apache.commons.logging.impl
+Bundle-Name: Checkstyle Core Library
+Bundle-Version: 6.11.1.201510102004
+Bundle-ClassPath: .,checkstyle-6.11.2-all.jar
+Created-By: Apache Maven 3.2.3
+Build-Jdk: 1.8.0_60
+Eclipse-BundleShape: dir
+

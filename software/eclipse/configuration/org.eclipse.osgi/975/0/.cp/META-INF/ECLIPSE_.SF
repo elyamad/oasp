@@ -1,0 +1,95 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 0XkH0Tc8s6JDjqy+qenLiqDJIU8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: /gVuUbAj+koW/vQ9zjCFG5EGuXc=
+
+Name: org/objectweb/asm/Context.class
+SHA1-Digest: /Xd43euMnmnnkyVfd7mHnOHfmGo=
+
+Name: org/objectweb/asm/TypeReference.class
+SHA1-Digest: SWzdLmj06sbzkT48LwWYx/3UFNE=
+
+Name: org/objectweb/asm/signature/SignatureWriter.class
+SHA1-Digest: hC82d+B1GgCVWZrmIYAcmqlZHmI=
+
+Name: org/objectweb/asm/Label.class
+SHA1-Digest: Zzxix3VUMutJrxEV4s6BrGrUQdk=
+
+Name: org/objectweb/asm/Handle.class
+SHA1-Digest: p7mj+mqkMEuMMtElQXrBPDiazLE=
+
+Name: plugin.properties
+SHA1-Digest: PDnwAwMvvdV6ou6pvoTBxZJg5IY=
+
+Name: org/objectweb/asm/ByteVector.class
+SHA1-Digest: KYubxfG1hC1Lfmn4wTJ0+YdcwT8=
+
+Name: org/objectweb/asm/AnnotationVisitor.class
+SHA1-Digest: QXD+1kFNgfm7O9f22tMqQd9a89Q=
+
+Name: org/objectweb/asm/signature/SignatureReader.class
+SHA1-Digest: dzdsaOS6NK9JaadL0lqP3xRwm/I=
+
+Name: org/objectweb/asm/MethodWriter.class
+SHA1-Digest: 3Sp3TbDPQ/xqTB2obhyB4XxQbNQ=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: 0bIUEq0uoxEuVhxf+eu4VNBAYEE=
+
+Name: org/objectweb/asm/Handler.class
+SHA1-Digest: iP+7kJWmvZIUt9o+ohEoPb25zW4=
+
+Name: org/objectweb/asm/ClassWriter.class
+SHA1-Digest: Uptz1qFIVid8sGlCY9sFRjkUUV4=
+
+Name: org/objectweb/asm/Type.class
+SHA1-Digest: YG1lUeZi8yvMYfKNk9eUAQu2U/A=
+
+Name: org/objectweb/asm/FieldWriter.class
+SHA1-Digest: RPAHwzdIFD6+OniMNBDRe6tcjjw=
+
+Name: org/objectweb/asm/MethodVisitor.class
+SHA1-Digest: RbWH2D2qS+cRdzXryPQg1oqrFKU=
+
+Name: org/objectweb/asm/Edge.class
+SHA1-Digest: TgxvJhX4q2+y2sV52V8VnfzN30E=
+
+Name: org/objectweb/asm/TypePath.class
+SHA1-Digest: GhHEFS93Pwtualj8R9v4yTq8rKQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/objectweb/asm/AnnotationWriter.class
+SHA1-Digest: LjQZ9x/88HpUi0i2KDKiAyf/Y+0=
+
+Name: org/objectweb/asm/ClassReader.class
+SHA1-Digest: OpDWoXH3i7H8hkLY3cfGyT3ZP9o=
+
+Name: about.html
+SHA1-Digest: sb36o7oaGWL8ZX1o+eyeu9mFVko=
+
+Name: org/objectweb/asm/Attribute.class
+SHA1-Digest: phIWSauJslppUuhGj7zMN4jm7/8=
+
+Name: org/objectweb/asm/signature/SignatureVisitor.class
+SHA1-Digest: YomGc5DuwM75UJAiChHMgxjD670=
+
+Name: org/objectweb/asm/Item.class
+SHA1-Digest: Eevk5NsUjnPzNJ5kkOYJ3DIOlh4=
+
+Name: org/objectweb/asm/Opcodes.class
+SHA1-Digest: UU5JXIO1Th/Y6p4jVlBYbWoc6LI=
+
+Name: org/objectweb/asm/FieldVisitor.class
+SHA1-Digest: O3wr420cOPIXmPm/inu5MeiBP6Y=
+
+Name: org/objectweb/asm/ClassVisitor.class
+SHA1-Digest: aWPZC75JJOpmikR8y5O8TvCc6b0=
+
+Name: about_files/README.txt
+SHA1-Digest: EoFQYNnK62tuXGRlIrWZe0Tk9Lo=
+
+Name: org/objectweb/asm/Frame.class
+SHA1-Digest: 5cN8sm/AbgV93L45Jm/pG9hrhrk=
+

@@ -1,0 +1,1281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,300,600,100" rel="stylesheet" type="text/css">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://marketplace.eclipse.org/sites/all/themes/solstice/_themes/solstice_marketplace/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://marketplace.eclipse.org/content/tm-terminal/artifacts.jar" />
+<link rel="shortlink" href="http://marketplace.eclipse.org/node/1687099/artifacts.jar" />
+<meta property="og:site_name" content="Eclipse Plugins, Bundles and Products - Eclipse Marketplace" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://marketplace.eclipse.org/content/tm-terminal/artifacts.jar" />
+<meta property="og:title" content="TM Terminal" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://marketplace.eclipse.org/content/tm-terminal/artifacts.jar" />
+<meta name="twitter:title" content="TM Terminal" />
+  <title>TM Terminal | Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+  <link type="text/css" rel="stylesheet" href="http://marketplace.eclipse.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://marketplace.eclipse.org/sites/default/files/css/css_69iQNH9_V5jG-ypN2uK1-Lehh5o2pv6am8NNHLtqn_M.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://marketplace.eclipse.org/sites/default/files/css/css_lr2o_ExSkGmspU6Jv0EuenlZg0tlRIxvwfnlgwVYz5o.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://marketplace.eclipse.org/sites/default/files/css/css_8YB-_oN6I-_qSrT9Zu_DNRz3DJpvLvDpmnclKp6Xoao.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://marketplace.eclipse.org/sites/default/files/css/css_44rm-Z-gtK2IGQZ7QZlSS8fFpHd7mh7jSrpvujIWntg.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://marketplace.eclipse.org/sites/default/files/js/js_BZg21BmXYMrfPmuI0wQsfBEeLNLS4uxbHohyYi1tm6A.js"></script>
+<script src="//www.google.com/jsapi"></script>
+<script src="http://marketplace.eclipse.org/sites/default/files/js/js_MyOOO0GeCIcev0spDyhVtO3cT5ynUwqvSPjZ7fv4i9M.js"></script>
+<script src="http://marketplace.eclipse.org/sites/default/files/js/js_cFQOhbXpP3lM5iL9FIdkf6ca7tMF29_rwhNcAaQmKmI.js"></script>
+<script>var switchTo5x = false;var __st_loadLate = true;</script>
+<script src="http://w.sharethis.com/button/buttons.js"></script>
+<script>if (stLight !== undefined) { stLight.options({"publisher":"ra-4f0a6769141fbf14","version":"4x"}); }</script>
+<script>(function ($) {
+Drupal.behaviors.adSenseUnblock = {
+  attach: function (context) {
+    setTimeout(function() {
+      if ($('.adsense ins').contents().length == 0) {
+        $('.adsense').html(Drupal.t("Please, enable ads on this site. By using ad-blocking software, you're depriving this site of revenue that is needed to keep it free and current. Thank you."));
+        $('.adsense').css({'overflow': 'hidden', 'font-size': 'smaller'});
+      }
+    }, 3000); // wait 3 seconds for adsense async to execute
+  }
+};
+
+})(jQuery);
+</script>
+<script src="http://marketplace.eclipse.org/sites/default/files/js/js_rab_jEF9pMo7lOg8cj6QyuTpmJ9K7Jwo5bAg3-Tkr5s.js"></script>
+<script src="http://marketplace.eclipse.org/sites/default/files/js/js_gGgyCry8E8pHF-YUBgBR_YwFGbY_BhhnFz1-Elm9brs.js"></script>
+<script src="http://marketplace.eclipse.org/sites/default/files/js/js_b7U_lKDVexT9ANsjNY70cWzK5P1fFxUVCwzTBefvGi0.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"solstice_marketplace","theme_token":"M3-Flclmh1Q6enHCxcSUFDYbmPx284-GRPIfoPwLn4A","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/contrib\/charts\/modules\/charts_google\/charts_google.js":1,"sites\/all\/modules\/contrib\/field_group\/horizontal-tabs\/horizontal-tabs.js":1,"misc\/form.js":1,"sites\/all\/modules\/contrib\/adsense\/contrib\/adsense_click\/adsense_click.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"0":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"1":1,"2":1,"misc\/autocomplete.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_collapse.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/solstice\/public\/javascript\/main.min.js":1,"sites\/all\/themes\/solstice\/_themes\/solstice_marketplace\/public\/javascript\/marketplace.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/field_group\/horizontal-tabs\/horizontal-tabs.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_group\/field_group.css":1,"sites\/all\/themes\/solstice\/_themes\/solstice_marketplace\/public\/stylesheets\/styles.min.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/content\/tm-terminal\/artifacts.jar":true},"field_group":{"htabs":"full","fieldset":"full","htab":"full"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1687099 page-node-artifactsjar node-type-resource" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <a class="sr-only" href="#content">Skip to main content</a>
+<div class="thin-header">
+  <div id="toolbar-container-wrapper" class="clearfix">
+    <div class="container">
+              <div id="row-toolbar" class="region region-toolbar text-right hidden-print solstice-region-element-count-1 row">
+  <div id="row-toolbar-col" class="col-md-24">
+    <section id="block-solstice-support-solstice-support-toolbar" class="block block-solstice-support block-region-toolbar block-solstice-support-toolbar clearfix">
+
+      
+  <div class="block-content">
+    <ul class="list-inline"><li><a href="https://dev.eclipse.org/site_login/createaccount.php" target="_self"><i class="fa fa-user fa-fw"></i> Create account</a></li>
+<li absolute=""><a href="/user/login/sso" target="_self"><i class="fa fa-sign-in fa-fw"></i> Log in</a></li>
+</ul>  </div>
+
+</section> <!-- /.block -->
+  </div>
+</div>
+          </div>
+  </div>
+  <header id="page-header-logo" class="" role="banner">
+    <div class="container">
+      <div id="row-logo-search" class="row">
+      <div id="header-left" class="hidden-xs col-sm-8">
+                  <a href="/" title="Home"><img class="logo-eclipse-default img-responsive" src="http://marketplace.eclipse.org/sites/all/themes/solstice/_themes/solstice_marketplace/logo.png" alt="Home" /></a>                          <a class="name navbar-brand element-invisible" href="/" title="Home">
+            Eclipse Plugins, Bundles and Products - Eclipse Marketplace          </a>
+              </div>
+
+      <div id="header-right" class="hidden-xs form-inline col-sm-16 pull-right hide">
+        <div class="row">
+                                      </div>
+      </div>
+
+      <div id="main-menu" class="navbar yamm ">
+        <div id="navbar-collapse-1" class="navbar-collapse collapse">
+                          <div class="region region-navigation solstice-region-element-count-1">
+    <section id="block-system-main-menu" class="block block-system block-menu block-region-navigation block-main-menu clearfix">
+
+      
+  <div class="block-content">
+    <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/my_marketplace" title="My Marketplace favorites.">My Marketplace</a></li>
+<li class="last leaf"><a href="/add_content" title="Add content to Marketplace.">Add Content</a></li>
+<li class="dropdown eclipse-more hidden-xs">
+        <a data-toggle="dropdown" class="dropdown-toggle">More<b class="caret"></b></a>
+        <ul class="dropdown-menu"><li><div class="yamm-content"><div class="row"><ul class="list-unstyled col-sm-6"><li class="link_heading first"><span><p><strong>Eclipse</strong></p></span></li>
+<li class="link_download"><a href="//www.eclipse.org/downloads/">Download</a></li>
+<li class="link_gettingstarted"><a href="//www.eclipse.org/users/">Getting Started</a></li>
+<li class="link_members"><a href="//www.eclipse.org/membership/">Members</a></li>
+<li class="link_projects last"><a href="//www.eclipse.org/projects/">Projects</a></li>
+</ul><ul class="list-unstyled col-sm-6"><li class="link_heading first"><span><p><strong>Community</strong></p></span></li>
+<li class="link_marketplace"><a href="//marketplace.eclipse.org">Marketplace</a></li>
+<li class="link_events"><a href="//events.eclipse.org">Events</a></li>
+<li class="link_planeteclipse"><a href="//www.planeteclipse.org/">Planet Eclipse</a></li>
+<li class="link_community"><a href="//www.eclipse.org/community/eclipse_newsletter/">Newsletter</a></li>
+<li class="link_youtube last"><a href="//www.youtube.com/user/EclipseFdn">Videos</a></li>
+</ul><ul class="list-unstyled col-sm-6"><li class="link_heading first"><span><p><strong>Participate</strong></p></span></li>
+<li class="link_bugzilla"><a href="//bugs.eclipse.org/bugs/">Report a Bug</a></li>
+<li class="link_forums"><a href="//www.eclipse.org/forums/">Forums</a></li>
+<li class="link_mail"><a href="//www.eclipse.org/mail/">Mailing Lists</a></li>
+<li class="link_wiki"><a href="//wiki.eclipse.org/">Wiki</a></li>
+<li class="link_irc"><a href="//wiki.eclipse.org/IRC">IRC</a></li>
+<li class="link_contribute last"><a href="//www.eclipse.org/contribute/">How to Contribute</a></li>
+</ul><ul class="list-unstyled col-sm-6"><li class="link_heading first"><span><p><strong>Working Groups</strong></p></span></li>
+<li class="link_automotive"><a href="//wiki.eclipse.org/Auto_IWG">Automotive</a></li>
+<li class="link_iot"><a href="//iot.eclipse.org">Internet of Things</a></li>
+<li class="link_locationtech"><a href="//www.locationtech.org">LocationTech</a></li>
+<li class="link_lts"><a href="//lts.eclipse.org">Long-Term Support</a></li>
+<li class="link_polarsys"><a href="//www.polarsys.org">PolarSys</a></li>
+<li class="link_science"><a href="//science.eclipse.org">Science</a></li>
+<li class="link_openmdm last"><a href="//openmdm.org">OpenMDM</a></li>
+</ul></div></div></li></ul></li></ul>  </div>
+
+</section> <!-- /.block -->
+  </div>
+                  </div>
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" class="navbar-brand visible-xs"><img class="logo-eclipse-default-mobile" width="140" alt="Eclipse.org logo" src="http://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/logo.png"/></a>        </div>
+    </div>
+</div>    </div>
+  </header>
+
+      <section id="breadcrumb" class="defaut-breadcrumbs hidden-print">
+      <div class="container">
+        <div class="col-xs-24">
+          <ol class="breadcrumb"><li><a href="//www.eclipse.org">Home</a></li>
+<li><a href="/">Marketplace</a></li>
+<li><a href="/category/markets/tools">Tools (1584)</a></li>
+<li class="active">TM Terminal</li>
+</ol>        </div>
+      </div>
+    </section>
+  
+  <main role="main" class="no-promo">
+    
+    <div class="container" id="novaContent">
+
+      <header role="banner" id="page-header">
+                      </header>
+
+      <!-- /#page-header -->
+      <div class="row" id="main-content-row">
+
+        
+        <section  class="col-sm-18 col-sm-push-6 id="main-content">
+          
+          
+          
+          
+                      <a id="main-content"></a>
+            <div id="maint-content-area">
+              
+                              <h1  class="page-header"><div class="marketplace-badges-container"><img class="float-right marketplace-badges img-responsive" src="/sites/all/themes/solstice/public/images/marketplace/badge-foundation.png" alt="Eclipse Foundation Member" /></div><span  class="listing-title eclipse-foundation-member-listing">TM Terminal</span></h1>
+              
+                          
+                                      
+            
+            
+              <div class="region region-content solstice-region-element-count-2">
+    <section id="block-system-main" class="block block-system block-region-content block-main clearfix">
+
+      
+  <div class="block-content">
+    <div id="node-1687099" class="node node-resource clearfix">
+  <div class="row padding-bottom">
+    <div class="col-sm-5 col-md-4">
+      <div class="listing-badge-container"><div class="col-md-24"><div class="row"><a href="/content/tm-terminal" class="listing-image" style="background:url(http://marketplace.eclipse.org/sites/default/files/styles/ds_medium/public/tcf_terminal_luna6_0.png?itok=rzk_-AGR) no-repeat center;"><span class="sr-only">TM Terminal</span></a></div><div class="row padding-top-10 hidden-xs"><div class="col-xs-24 col-sm-12 text-center"><div class="row"><span class="flag-wrapper flag-votes flag-votes-small"><a target="_parent" title="Please log in to add TM Terminal to your favorites" class="favorite" href="/node/1687099/login-warning"><i class="fa fa-star-o"></i>19</a><span class="flag-throbber">&nbsp;</span></span></div></div><div class="col-xs-24 col-sm-12 text-center"><div class="row"><a href="/content/tm-terminal#reviews" class=""><i class="fa fa-comment-o"></i> 28</a></div></div></div><div class="row text-center padding-top-10 hidden-xs"><div class="drag_installbutton drag_installbutton_v2"><a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1687099" class="drag" title="Drag to your running Eclipse workspace to install TM Terminal"><span class="btn btn-simple"><i class="fa fa-download orange"></i> Install</span><div class="tooltip"><h3>Drag to Install!</h3>Drag to your running Eclipse workspace.</div></a></div></div><div class="row listing-icons text-center col-light-padding padding-top-10 padding-bottom-15"><div class="row"><a href="/content/tm-terminal/click" title="TM Terminal website." target="_blank"><i class="fa fa-home"></i></a><i class="fa fa-rss"></i><a href="http://eclipse.org/tm/support.php" title="TM Terminal support link." target="_blank"><i class="fa fa-question-circle"></i></a><a href="#maint-content-area" id="btn-update-site"><i class="fa fa-download"></i></a><div id="update-site-content" class="hide"><p>Add this URL to your Eclipse Installation to reach this Solution's Update Site.</p><div class="box-container box-container-even"><h4>Mars (4.5)<br/>Luna (4.4)<br/>Kepler (4.3)<br/>Juno (4.2, 3.8)<br/>Neon (4.6)</h4><input class="margin-bottom-10 form-text" type="text" value="http://download.eclipse.org/tm/terminal/marketplace" size="125" /><i class="fa fa-linux orange" title="Linux/GTK"></i> <i class="fa fa-windows orange" title="Windows"></i> <i class="fa fa-apple orange" title="Mac"></i></div><a href="/content/tm-terminal/help" title="How to add an update site." class="">Learn more...</a></div></div></div></div></div>    </div>
+
+    <div class="col-sm-19 col-md-20">
+            
+      
+      
+      
+      <div class="content">
+        <!-- google_ad_section_start --><div class="field-group-htabs-wrapper  group-additional-details-tabs field-group-htabs"><h2 class="element-invisible">Details Group Tabs</h2><div class="horizontal-tabs-panes"><fieldset  class="collapsible collapsed  group-details field-group-htab panel panel-default form-wrapper" id="group-details">
+          <legend class="panel-heading">
+      <span class="panel-title fieldset-legend">Details</span>
+    </legend>
+          <div class="panel-body">
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>A fully working command-line Terminal inside Eclipse (renamed from "TCF Terminals").</p>
+<p>Just press Ctrl+Alt+T to open a local command prompt (Terminal). That's all - it just works :) Previous sessions are remembered and auto-reconnected on quit and restart. Supports Windows, Linux and Mac. </p>
+<p>For additional options or remote sessions, use Ctrl+Alt+Shift+T or click the "Terminal" toolbar button. Supports SSH, Telnet or Serial line. Full ANSI cursor control, readline and coloring, Use vi, emacs or similar programs on any remote host.</p>
+<p>In the Terminal, type Alt+Up to maximize or restore it. Use Alt+Right for quick access to other Eclipse views. Type Ctrl+PgUp/PgDn to switch between multiple Terminal Tabs. See Preferences &gt; Terminal for additional options like registering custom shell environments (like Git Bash, Cygwin, or just custom PATH settings).</p>
+<p>Enhancements and Fixes in 4.0 20150430 (Mars M7):
+</p><ul><li>Restructured from TCF into TM to simplify code, reduce plugins and promote contributions</li>
+</ul><p>Enhancements and Fixes in 1.2.1 (Luna SR2) - full list at <a href="http://eclip.se/3E">http://eclip.se/3E</a>
+</p><ul><li>Faster access to local Terminal: Ctrl+Alt+T works on selection or active editor, while Ctrl+Alt+Shift+T provides an option dialog to use for remote terminals. Also, added "Show In" (Alt+Shift+W) support for many perspectives [435158, 435015]</li>
+<li>New Preference for the default startup directory of the local terminal, and custom "Show-In" menus [454965, 435014]</li>
+<li>Additional xterm emulation support for copy-and-paste across line breaks [453393, 458218, 458398, 458402]</li>
+<li>Reduced dependencies - Terminal pulls in fewer plugins now</li>
+<li>Fixed typing accent, umlaut and other non-English characters in the Terminal [448144]</li>
+<li>Fixed restoring encoding of terminal sessions after restart [443046]
+</li><li>Fixed race condition that caused initial wrapping at 80 chars sometimes [435107, 460303]</li>
+</ul><p>Found an issue? - Please <a href="http://eclip.se/4a">report a bug!</a></p>
+<p>Interested in requesting enhancements, or participating?
+</p><ul><li>Known issues and enhancement requests: <a href="http://eclip.se/4g">http://eclip.se/4g</a></li>
+<li>Issues fixed recently: <a href="http://eclip.se/3G">http://eclip.se/3G</a></li>
+<li>Nightly p2 repo: <a href="http://download.eclipse.org/tm/terminal/marketplace">http://download.eclipse.org/tm/terminal/marketplace</a></li>
+<li>Import the <a href="http://git.eclipse.org/c/tm/org.eclipse.tm.terminal.git/plain/terminals.psf">Team Project Set</a> to get the source code</li>
+<li>Here's <a href="http://git.eclipse.org/c/tm/org.eclipse.tm.terminal.git/tree/CONTRIBUTING">how to contribute</a></li>
+</ul><p>Brought to you by the <a href="https://projects.eclipse.org/projects/tools.cdt.tcf/who">Eclipse TCF</a> and <a href="https://projects.eclipse.org/projects/tools.tm/who">Eclipse TM</a> Committers from Wind River, with help from <a href="https://github.com/rprichard/winpty">winpty@github</a>, Mirko Raner, CDT, and many other Community Members.</p>
+</div></div></div><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Categories: </div><ul class="links inline list-inline"><li class="taxonomy-term-reference-0"><a href="/category/categories/general-purpose-tools">General Purpose Tools</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-4 field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags: </div><ul class="links inline list-inline"><li class="taxonomy-term-reference-0"><a href="/category/free-tagging/vt100">vt100</a>, </li><li class="taxonomy-term-reference-1"><a href="/category/free-tagging/terminal">terminal</a>, </li><li class="taxonomy-term-reference-2"><a href="/category/free-tagging/console">console</a>, </li><li class="taxonomy-term-reference-3"><a href="/category/free-tagging/elt">ELT</a>, </li><li class="taxonomy-term-reference-4"><a href="/category/free-tagging/command">Command</a>, </li><li class="taxonomy-term-reference-5"><a href="/category/free-tagging/shell">Shell</a>, </li><li class="taxonomy-term-reference-6"><a href="/taxonomy/term/2948">prompt</a>, </li><li class="taxonomy-term-reference-7"><a href="/category/free-tagging/remote">remote</a>, </li><li class="taxonomy-term-reference-8"><a href="/category/free-tagging/http%3A/marketplace.eclipse.org/taxonomy/term/3290">SSH</a>, </li><li class="taxonomy-term-reference-9"><a href="/category/free-tagging/serial">serial</a>, </li><li class="taxonomy-term-reference-10"><a href="/category/free-tagging/xterm">xterm</a></li></ul></div><fieldset  class="collapsible  group-additional-details field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel">
+          <legend class="panel-heading">
+      <a href="#" class="panel-title fieldset-legend" data-toggle="collapse" data-target="#bootstrap-panel > .collapse">Additional Details</a>
+    </legend>
+          <div class="panel-collapse collapse fade in">
+    <div class="panel-body">
+        <div class="field field-name-resource-sv-eclipse-version field-type-text field-label-inline clearfix"><div class="field-label">Eclipse Versions:&nbsp;</div><div class="field-items"><div class="field-item even">Mars (4.5), Luna (4.4), Kepler (4.3), Juno (4.2, 3.8), Neon (4.6)</div></div></div><div class="field field-name-resource-sv-os field-type-text field-label-inline clearfix"><div class="field-label">Platform Support:&nbsp;</div><div class="field-items"><div class="field-item even">Windows, Mac, Linux/GTK</div></div></div><div class="field field-name-field-companyname field-type-text field-label-inline clearfix"><div class="field-label">Organization Name:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/search/content/%22Eclipse%20Foundation%22">Eclipse Foundation</a></div></div></div><div class="field field-name-shared-date-created field-type-text field-label-inline clearfix"><div class="field-label">Date Created:&nbsp;</div><div class="field-items"><div class="field-item even">Thu, 2014-05-15 04:49</div></div></div><div class="field field-name-field-status field-type-list-text field-label-inline clearfix"><div class="field-label">Development Status:&nbsp;</div><div class="field-items"><div class="field-item even">Production/Stable</div></div></div><div class="field field-name-field-licensetype field-type-list-text field-label-inline clearfix"><div class="field-label">License:&nbsp;</div><div class="field-items"><div class="field-item even">EPL</div></div></div><div class="field field-name-shared-date-updated field-type-text field-label-inline clearfix"><div class="field-label">Date Updated:&nbsp;</div><div class="field-items"><div class="field-item even">Mon, 2016-02-22 14:20</div></div></div><div class="field field-name-shared-submitted-by field-type-text field-label-inline clearfix"><div class="field-label">Submitted by:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a></div></div></div>  </div>
+    </div>
+  </fieldset>
+<div class="sharethis-buttons"><div class="sharethis-wrapper"><span st_url="http://marketplace.eclipse.org/content/tm-terminal" st_title="TM Terminal" class="st_facebook_button" displayText="facebook"></span>
+<span st_url="http://marketplace.eclipse.org/content/tm-terminal" st_title="TM Terminal" class="st_twitter_button" st_via="@eclipse" st_username="#eclipseMarketplace" displayText="twitter"></span>
+<span st_url="http://marketplace.eclipse.org/content/tm-terminal" st_title="TM Terminal" class="st_linkedin_button" displayText="linkedin"></span>
+<span st_url="http://marketplace.eclipse.org/content/tm-terminal" st_title="TM Terminal" class="st_email_button" displayText="email"></span>
+<span st_url="http://marketplace.eclipse.org/content/tm-terminal" st_title="TM Terminal" class="st_plusone_button" displayText="plusone"></span>
+<span st_url="http://marketplace.eclipse.org/content/tm-terminal" st_title="TM Terminal" class="st_fblike_button" displayText="fblike"></span>
+</div></div>
+  </div>
+  </fieldset>
+<fieldset  class="collapsible collapsed  group-screenshots field-group-htab panel panel-default form-wrapper" id="group-screenshots">
+          <legend class="panel-heading">
+      <span class="panel-title fieldset-legend">Screenshots</span>
+    </legend>
+          <div class="panel-body">
+        <div class="field field-name-field-screenshot field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://marketplace.eclipse.org/sites/default/files/terminals_screenshot.png" title="TM Terminal" class="colorbox" rel="gallery-node-1687099"><img class="img-responsive" src="http://marketplace.eclipse.org/sites/default/files/styles/ds_solution_screenshot/public/terminals_screenshot.png?itok=Ick3BnGW" width="469" height="154" alt="" title="" /></a></div><div class="field-item odd"><a href="http://marketplace.eclipse.org/sites/default/files/terminals_screenshot2.png" title="TM Terminal" class="colorbox" rel="gallery-node-1687099"><img class="img-responsive" src="http://marketplace.eclipse.org/sites/default/files/styles/ds_solution_screenshot/public/terminals_screenshot2.png?itok=RDbXh3IO" width="469" height="154" alt="" title="" /></a></div><div class="field-item even"><a href="http://marketplace.eclipse.org/sites/default/files/terminal_prefs_windows.gif" title="TM Terminal" class="colorbox" rel="gallery-node-1687099"><img class="img-responsive" src="http://marketplace.eclipse.org/sites/default/files/styles/ds_solution_screenshot/public/terminal_prefs_windows.gif?itok=nqtC9UFK" width="469" height="350" alt="" title="" /></a></div><div class="field-item odd"><a href="http://marketplace.eclipse.org/sites/default/files/show_in_git_bash.gif" title="TM Terminal" class="colorbox" rel="gallery-node-1687099"><img class="img-responsive" src="http://marketplace.eclipse.org/sites/default/files/styles/ds_solution_screenshot/public/show_in_git_bash.gif?itok=dhCakQfL" width="469" height="216" alt="" title="" /></a></div></div></div>  </div>
+  </fieldset>
+<fieldset  class="collapsible collapsed  group-metrics-tab field-group-htab panel panel-default form-wrapper" id="group-metrics-tab">
+          <legend class="panel-heading">
+      <span class="panel-title fieldset-legend">Metrics</span>
+    </legend>
+          <div class="panel-body">
+        <div class="text-center"><div  class="charts-google chart" data-chart="{&quot;visualization&quot;:&quot;ColumnChart&quot;,&quot;options&quot;:{&quot;title&quot;:&quot;Marketplace Client Install&quot;,&quot;titleTextStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false,&quot;fontSize&quot;:20},&quot;titlePosition&quot;:&quot;out&quot;,&quot;colors&quot;:[&quot;#2f7ed8&quot;,&quot;#0d233a&quot;,&quot;#8bbc21&quot;,&quot;#910000&quot;,&quot;#1aadce&quot;,&quot;#492970&quot;,&quot;#f28f43&quot;,&quot;#77a1e5&quot;,&quot;#c42525&quot;,&quot;#a6c96a&quot;],&quot;fontName&quot;:&quot;Arial&quot;,&quot;fontSize&quot;:12,&quot;backgroundColor&quot;:{&quot;fill&quot;:&quot;transparent&quot;},&quot;isStacked&quot;:false,&quot;tooltip&quot;:{&quot;trigger&quot;:&quot;focus&quot;,&quot;isHtml&quot;:false},&quot;pieSliceText&quot;:&quot;none&quot;,&quot;legend&quot;:{&quot;position&quot;:&quot;none&quot;,&quot;alignment&quot;:&quot;center&quot;,&quot;titleTextStyle&quot;:{&quot;bold&quot;:true,&quot;italic&quot;:false},&quot;textStyle&quot;:{&quot;bold&quot;:false,&quot;italic&quot;:false}},&quot;interpolateNulls&quot;:true,&quot;animation&quot;:{&quot;duration&quot;:10000,&quot;easing&quot;:&quot;out&quot;},&quot;hAxis&quot;:{&quot;title&quot;:&quot;&quot;,&quot;titleTextStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false,&quot;fontSize&quot;:12},&quot;textStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false},&quot;gridlines&quot;:{&quot;color&quot;:&quot;#ccc&quot;},&quot;baselineColor&quot;:&quot;#ccc&quot;,&quot;minorGridlines&quot;:{&quot;color&quot;:&quot;#e0e0e0&quot;},&quot;viewWindow&quot;:[]},&quot;vAxes&quot;:[{&quot;title&quot;:&quot;&quot;,&quot;titleTextStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false,&quot;fontSize&quot;:12},&quot;textStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false},&quot;gridlines&quot;:{&quot;color&quot;:&quot;#ccc&quot;},&quot;baselineColor&quot;:&quot;#ccc&quot;,&quot;minorGridlines&quot;:{&quot;color&quot;:&quot;#e0e0e0&quot;},&quot;viewWindow&quot;:[],&quot;format&quot;:&quot;#&quot;}],&quot;series&quot;:[{&quot;color&quot;:&quot;#F7941E&quot;,&quot;pointSize&quot;:3,&quot;visibleInLegend&quot;:true,&quot;pieSliceText&quot;:&quot;none&quot;,&quot;_format&quot;:{&quot;format&quot;:&quot;#&quot;}}]},&quot;data&quot;:[[&quot;x&quot;,&quot;Installs&quot;],[&quot;5\/15&quot;,745],[&quot;6\/15&quot;,1025],[&quot;7\/15&quot;,1057],[&quot;8\/15&quot;,869],[&quot;9\/15&quot;,940],[&quot;10\/15&quot;,1078],[&quot;11\/15&quot;,1005],[&quot;12\/15&quot;,823],[&quot;1\/16&quot;,949],[&quot;2\/16&quot;,995],[&quot;3\/16&quot;,969],[&quot;4\/16&quot;,366]]}" id="google-chart-render"></div>
+<div  class="charts-google chart" data-chart="{&quot;visualization&quot;:&quot;ColumnChart&quot;,&quot;options&quot;:{&quot;title&quot;:&quot;Clickthroughs&quot;,&quot;titleTextStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false,&quot;fontSize&quot;:20},&quot;titlePosition&quot;:&quot;out&quot;,&quot;colors&quot;:[&quot;#2f7ed8&quot;,&quot;#0d233a&quot;,&quot;#8bbc21&quot;,&quot;#910000&quot;,&quot;#1aadce&quot;,&quot;#492970&quot;,&quot;#f28f43&quot;,&quot;#77a1e5&quot;,&quot;#c42525&quot;,&quot;#a6c96a&quot;],&quot;fontName&quot;:&quot;Arial&quot;,&quot;fontSize&quot;:12,&quot;backgroundColor&quot;:{&quot;fill&quot;:&quot;transparent&quot;},&quot;isStacked&quot;:false,&quot;tooltip&quot;:{&quot;trigger&quot;:&quot;focus&quot;,&quot;isHtml&quot;:false},&quot;pieSliceText&quot;:&quot;none&quot;,&quot;legend&quot;:{&quot;position&quot;:&quot;none&quot;,&quot;alignment&quot;:&quot;center&quot;,&quot;titleTextStyle&quot;:{&quot;bold&quot;:true,&quot;italic&quot;:false},&quot;textStyle&quot;:{&quot;bold&quot;:false,&quot;italic&quot;:false}},&quot;interpolateNulls&quot;:true,&quot;animation&quot;:{&quot;duration&quot;:10000,&quot;easing&quot;:&quot;out&quot;},&quot;hAxis&quot;:{&quot;title&quot;:&quot;&quot;,&quot;titleTextStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false,&quot;fontSize&quot;:12},&quot;textStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false},&quot;gridlines&quot;:{&quot;color&quot;:&quot;#ccc&quot;},&quot;baselineColor&quot;:&quot;#ccc&quot;,&quot;minorGridlines&quot;:{&quot;color&quot;:&quot;#e0e0e0&quot;},&quot;viewWindow&quot;:[]},&quot;vAxes&quot;:[{&quot;title&quot;:&quot;&quot;,&quot;titleTextStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false,&quot;fontSize&quot;:12},&quot;textStyle&quot;:{&quot;color&quot;:&quot;#000&quot;,&quot;bold&quot;:false,&quot;italic&quot;:false},&quot;gridlines&quot;:{&quot;color&quot;:&quot;#ccc&quot;},&quot;baselineColor&quot;:&quot;#ccc&quot;,&quot;minorGridlines&quot;:{&quot;color&quot;:&quot;#e0e0e0&quot;},&quot;viewWindow&quot;:[],&quot;format&quot;:&quot;#&quot;}],&quot;series&quot;:[{&quot;color&quot;:&quot;#F7941E&quot;,&quot;pointSize&quot;:3,&quot;visibleInLegend&quot;:true,&quot;pieSliceText&quot;:&quot;none&quot;,&quot;_format&quot;:{&quot;format&quot;:&quot;#&quot;}}]},&quot;data&quot;:[[&quot;x&quot;,&quot;Clicks&quot;],[&quot;5\/15&quot;,70],[&quot;6\/15&quot;,47],[&quot;7\/15&quot;,29],[&quot;8\/15&quot;,35],[&quot;9\/15&quot;,27],[&quot;10\/15&quot;,30],[&quot;11\/15&quot;,36],[&quot;12\/15&quot;,29],[&quot;1\/16&quot;,35],[&quot;2\/16&quot;,42],[&quot;3\/16&quot;,38],[&quot;4\/16&quot;,19]]}" id="google-chart-render--2"></div>
+</div><table class="table table-hover table-striped table-bordered sticky-enabled">
+ <thead><tr><th>Date</th><th>Ranking</th><th>Installs</th><th>Clickthroughs</th> </tr></thead>
+<tbody>
+ <tr><td>April 2016</td><td>87/868</td><td>366 (0.19%)</td><td>19</td> </tr>
+ <tr><td>March 2016</td><td>91/911</td><td>969 (0.19%)</td><td>38</td> </tr>
+ <tr><td>February 2016</td><td>77/901</td><td>995 (0.22%)</td><td>42</td> </tr>
+ <tr><td>January 2016</td><td>77/902</td><td>949 (0.21%)</td><td>35</td> </tr>
+ <tr><td>December 2015</td><td>83/873</td><td>823 (0.2%)</td><td>29</td> </tr>
+ <tr><td>November 2015</td><td>80/878</td><td>1005 (0.21%)</td><td>36</td> </tr>
+ <tr><td>October 2015</td><td>78/879</td><td>1078 (0.22%)</td><td>30</td> </tr>
+ <tr><td>September 2015</td><td>77/868</td><td>940 (0.23%)</td><td>27</td> </tr>
+ <tr><td>August 2015</td><td>79/860</td><td>869 (0.21%)</td><td>35</td> </tr>
+ <tr><td>July 2015</td><td>77/866</td><td>1057 (0.23%)</td><td>29</td> </tr>
+ <tr><td>June 2015</td><td>75/901</td><td>1025 (0.23%)</td><td>47</td> </tr>
+ <tr><td>May 2015</td><td>95/883</td><td>745 (0.18%)</td><td>70</td> </tr>
+</tbody>
+</table>
+<a href="/metrics/successful_installs/alltime" class="button">View Data for all Listings</a>  </div>
+  </fieldset>
+<fieldset  class="collapsible collapsed  group-errors-tabs field-group-htab panel panel-default form-wrapper">
+          <legend class="panel-heading">
+      <span class="panel-title fieldset-legend">Errors</span>
+    </legend>
+          <div class="panel-body">
+        <h2>Unsuccessful Installs</h2>
+<p>Unsuccessful Installs in the last 7 Days:4</p>
+<table class="table table-hover table-striped table-bordered sticky-enabled">
+ <thead><tr><th>Count</th><th>Error Message</th> </tr></thead>
+<tbody>
+ <tr><td>2</td><td><span title="Cannot continue the operation.  There is another install operation in progress."><a href="/content/error/report/2816806">Cannot continue the operation.  There is another install operation in progress.</a></span></td> </tr>
+ <tr><td>1</td><td><span title="Cannot complete the install because one or more required items could not be found.
+  Software being installed: TM Terminal 4.1.0.201603090932 (org.eclipse.tm.terminal.feature.feature.group 4.1.0.201603090932)
+  Missing requirement: Terminal Telnet Connector 4.1.0.201510011035 (org.eclipse.tm.terminal.connector.telnet 4.1.0.201510011035) requires &#039;bundle org.eclipse.ui 3.8.0&#039; but it could not be found
+  Cannot satisfy dependency:
+    From: TM Terminal Telnet Connector Extensions 4.1.0.201603090932 (org.eclipse.tm.terminal.connector.telnet.feature.feature.group 4.1.0.201603090932)
+    To: org.eclipse.tm.terminal.connector.telnet [4.1.0.201510011035]
+  Cannot satisfy dependency:
+    From: TM Terminal 4.1.0.201603090932 (org.eclipse.tm.terminal.feature.feature.group 4.1.0.201603090932)
+    To: org.eclipse.tm.terminal.connector.telnet.feature.feature.group 4.1.0"><a href="/content/error/report/2818254">Cannot complete the install because one or more required items could not be found....</a></span></td> </tr>
+ <tr><td>1</td><td><span title="Your original request has been modified.
+  &quot;Remote System Explorer End-User Runtime&quot; is already installed, so an update will be performed instead.
+Cannot complete the install because of a conflicting dependency.
+  Software being installed: TM Terminal 4.1.0.201603090932 (org.eclipse.tm.terminal.feature.feature.group 4.1.0.201603090932)
+  Software currently installed: Eclipse IDE for C/C++ Developers 1.4.2.20120213-0813 (epp.package.cpp 1.4.2.20120213-0813)
+  Only one of the following can be installed at once: 
+    Equinox Java Authentication and Authorization Service (JAAS) 1.2.0.v20130424-1801 (org.eclipse.equinox.security 1.2.0.v20130424-1801)
+    Equinox Java Authentication and Authorization Service (JAAS) 1.1.1.R37x_v20110822-1018 (org.eclipse.equinox.security 1.1.1.R37x_v20110822-1018)
+    Equinox Java Authentication and Authorization Service (JAAS) 1.1.0.v20110502 (org.eclipse.equinox.security 1.1.0.v20110502)
+  Cannot satisfy dependency:
+    From: Eclipse IDE for C/C++ Developers 1.4.2.20120213-0813 (epp.package.cpp 1.4.2.20120213-0813)
+    To: org.eclipse.epp.package.cpp.feature.feature.group [1.4.2.20120213-0813]
+  Cannot satisfy dependency:
+    From: EPP CPP Feature 1.4.2.20120213-0813 (org.eclipse.epp.package.cpp.feature.feature.group 1.4.2.20120213-0813)
+    To: org.eclipse.platform.feature.group [3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q]
+  Cannot satisfy dependency:
+    From: Eclipse Platform 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q (org.eclipse.platform.feature.group 3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q)
+    To: org.eclipse.equinox.security [1.1.1.R37x_v20110822-1018]
+  Cannot satisfy dependency:
+    From: TM Terminal SSH Connector Extensions 4.1.0.201603090932 (org.eclipse.tm.terminal.connector.ssh.feature.feature.group 4.1.0.201603090932)
+    To: org.eclipse.equinox.security 1.1.100
+  Cannot satisfy dependency:
+    From: TM Terminal 4.1.0.201603090932 (org.eclipse.tm.terminal.feature.feature.group 4.1.0.201603090932)
+    To: org.eclipse.tm.terminal.connector.ssh.feature.feature.group 4.1.0"><a href="/content/error/report/2818284">Your original request has been modified....</a></span></td> </tr>
+</tbody>
+</table>
+
+<a href="/unsuccessful/installs/1687099/error_report.csv" class="button">Download last 500 error reports (CSV)</a>
+  </div>
+  </fieldset>
+<fieldset  class="collapsible collapsed  group-external-install-button field-group-htab panel panel-default form-wrapper" id="group-external-install-button">
+          <legend class="panel-heading">
+      <span class="panel-title fieldset-legend">External Install Button</span>
+    </legend>
+          <div class="panel-body">
+        <h3>Marketplace Drag to Install button</h3><p>By adding the following code below to your website you will be able to add an install button for TM Terminal.<br/><br/>HTML Code:<br/><div class="form-textarea-wrapper"><textarea cols="80" rows="5" class="form-textarea">&lt;a href=&quot;http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1687099&quot; class=&quot;drag&quot; title=&quot;Drag to your running Eclipse workspace to install TM Terminal&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png&quot; alt=&quot;Drag to your running Eclipse workspace to install TM Terminal&quot; /&gt;&lt;/a&gt;</textarea></div><br/><br/>Output: <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1687099" class="drag" title="Drag to your running Eclipse workspace to install TM Terminal"><img class="img-responsive" src="http://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png" alt="Drag to your running Eclipse workspace to install TM Terminal" /></a>  </div>
+  </fieldset>
+</div></div><!-- google_ad_section_end -->      </div>
+            <div id="comments" class="comment-wrapper">
+          <h2  class="page-header title padding-top-25">
+      <i class="fa fa-comments orange"></i> Reviews      <a href="https://marketplace.eclipse.org/user/login/sso?takemeback=content/tm-terminal/artifacts.jar#comment-form" class="btn btn-primary btn-sm float-right">Sign in to post reviews</a>    </h2>
+
+      
+  <a id="comment-3692"></a>
+<div class="row comment odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/41496" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/3b74f6894367bafba17654db0b691b9c.jpg?d=mm&amp;s=100&amp;r=G" alt="Robert S. Liotta&#039;s picture" title="Robert S. Liotta&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3692#comment-3692" class="permalink" rel="bookmark">Nice Work!</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/41496/listings" title="Robert S. Liotta">Robert S. Liotta</a> on Fri, 2016-03-25 08:53</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hello.  I was wondering if you can start a terminal from a run configuration and pass arguments to make a connection?</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+<a id="comment-3576"></a>
+<div class="row comment even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/41026" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/71719abac4f0c1fa829f4eb9f1f01d9f.jpg?d=mm&amp;s=100&amp;r=G" alt="Sendery Lutson&#039;s picture" title="Sendery Lutson&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3576#comment-3576" class="permalink" rel="bookmark">Eclipse Enviroment variables</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/41026/listings" title="Sendery Lutson">Sendery Lutson</a> on Wed, 2016-02-03 02:56</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Is there any way to access the Eclipse enviroment variables (such us: LOC_WORKSPACE) trough a shell/local terminal?</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3608"></a>
+<div class="row comment comment-by-node-author odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3608#comment-3608" class="permalink" rel="bookmark">Yes, environment variables</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Thu, 2016-02-18 12:48</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Yes, environment variables ECLIPSE_HOME and ECLIPSE_WORKSPACE are set for you automatically in the "Local Terminal".</p>
+<p>Other variables are not exposed by default, but I think that writing code to expose them should not be too hard if you search the existing source code for the string ECLIPSE_WORKSPACE.</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div><a id="comment-3575"></a>
+<div class="row comment even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/41026" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/71719abac4f0c1fa829f4eb9f1f01d9f.jpg?d=mm&amp;s=100&amp;r=G" alt="Sendery Lutson&#039;s picture" title="Sendery Lutson&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3575#comment-3575" class="permalink" rel="bookmark">Enviroment Variables Eclipse</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/41026/listings" title="Sendery Lutson">Sendery Lutson</a> on Wed, 2016-02-03 02:53</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Is there anyway to acces the Eclipse Variables (such us LOC_WORKSPACE, ...) trough the shell/local terminal opened by Eclipse??</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+<a id="comment-3384"></a>
+<div class="row comment odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/38029" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/59873d5c010ca863c32c41281faf81bc.jpg?d=mm&amp;s=100&amp;r=G" alt="nimo mayr&#039;s picture" title="nimo mayr&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3384#comment-3384" class="permalink" rel="bookmark">Unhandled event loop exception in terminal plugin</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/38029/listings" title="nimo mayr">nimo mayr</a> on Sat, 2015-10-10 22:30</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>I have a fresh install of eclipse mars sr1 and the terminal plugin does not work out of the box, because of the following error:</p>
+<p><a href="https://dev.eclipse.org/recommenders/community/confess/#/incidents/58vEKpIaf77hEXQFSlUtJ30HmmisCdPvyCLZpi4l5XCCMJ3qzmwzt2xgROGEz3Uv">https://dev.eclipse.org/recommenders/community/confess/#/incidents/58vEK...</a></p>
+<p>Does anyone know why this error occurs?</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3395"></a>
+<div class="row comment comment-by-node-author even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3395#comment-3395" class="permalink" rel="bookmark">This issue, as well as a</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Thu, 2015-10-15 12:27</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>This issue, as well as a workaround, is now tracked on<br /><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=479591">https://bugs.eclipse.org/bugs/show_bug.cgi?id=479591</a><br />
+It currently looks like due to using eclipse-installer, an old version of cdt.core was picked up from the user's bundlePool. The issue will not happen when downloading a full EPP package, or when installing the terminal from the Marketplace.</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div><a id="comment-3370"></a>
+<div class="row comment odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/39777" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/e5d510d0bcb4e9677907362625be3322.jpg?d=mm&amp;s=100&amp;r=G" alt="Neil Beddoe&#039;s picture" title="Neil Beddoe&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3370#comment-3370" class="permalink" rel="bookmark">Excellent plugin</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/39777/listings" title="Neil Beddoe">Neil Beddoe</a> on Tue, 2015-09-29 04:21</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Your plug in was the final missing piece from my Eclipse set up.  You've turned it into the perfect C++ development environment.  I can run custom apps and debuggers from within Eclipse now.  Thanks.</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+<a id="comment-3239"></a>
+<div class="row comment even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/38858" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/9b0355af6f0bcfe10c53bfb06f574355.jpg?d=mm&amp;s=100&amp;r=G" alt="John Daniel&#039;s picture" title="John Daniel&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3239#comment-3239" class="permalink" rel="bookmark">Excellent plugin!</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/38858/listings" title="John Daniel">John Daniel</a> on Tue, 2015-07-14 13:29</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Martin - Great work here.  Really liking this plugin.</p>
+<p>Quick question: Is there a way that I can configure the plugin to stretch the width of the terminal screen to match the Eclipse View width?  Right now, the terminal allows me to type commands on the first 80 characters and then it wraps (to the front of the same line... ugh).  Ideally, what I am looking for is a setting that will allow the terminal to use all of the columns displayed available by the width of the enclosing Eclipse View panel  ...~200 characters or more.  Is this possible?  Thanks for the info.  Cheers!</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3343"></a>
+<div class="row comment comment-by-node-author odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3343#comment-3343" class="permalink" rel="bookmark">Auto-resize should work fine...</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Fri, 2015-09-04 10:38</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hi John, auto-resizing to width of the Eclipse view works fine for me on Linux and Windows local, as well as SSH.<br />
+What is your host OS, and what is your terminal connector ? - I suggest filing a bug for what you see. On Linux, typing "resize" in the Terminal may print interesting information.</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3345"></a>
+<div class="row comment even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/38858" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/9b0355af6f0bcfe10c53bfb06f574355.jpg?d=mm&amp;s=100&amp;r=G" alt="John Daniel&#039;s picture" title="John Daniel&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3345#comment-3345" class="permalink" rel="bookmark">Martin.  </a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/38858/listings" title="John Daniel">John Daniel</a> on Sat, 2015-09-05 17:18</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Martin.  </p>
+<p>Thanks for the response.  </p>
+<p>Per your request, I have submitted bug #476709<br /><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=476709">https://bugs.eclipse.org/bugs/show_bug.cgi?id=476709</a></p>
+<p>Let me know if you have questions.</p>
+<p>Cheers,</p>
+<p>John</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div></div><a id="comment-3167"></a>
+<div class="row comment odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/38245" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/7a6879e1e83ee2f0b7214b1c89ad0e75.jpg?d=mm&amp;s=100&amp;r=G" alt="Stefan Berger&#039;s picture" title="Stefan Berger&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3167#comment-3167" class="permalink" rel="bookmark">background colors</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/38245/listings" title="Stefan Berger">Stefan Berger</a> on Thu, 2015-05-21 02:58</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Great work, thanks for the plugin. On the screenshot the cmd shell background is black. For me it's always white, where can I change it?</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3173"></a>
+<div class="row comment comment-by-node-author even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3173#comment-3173" class="permalink" rel="bookmark">Use Preferences : Terminal : Invert Colors</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Fri, 2015-05-22 05:42</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hi Stefan, you can switch to a "Dark Terminal" by using "Preferences : Terminal : Invert Colors".</p>
+<p>It should also work automatically when you choose "Preferences : Appearance : Theme : Dark", but it seems that got broken with the recent TM 4.0 Refactoring. I've filed <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=467985">https://bugs.eclipse.org/bugs/show_bug.cgi?id=467985</a> for that issue.</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div><a id="comment-3162"></a>
+<div class="row comment odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/38203" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/1902adeff3e7b33392c6a78c9f7e3af2.jpg?d=mm&amp;s=100&amp;r=G" alt="Ivo Leitao&#039;s picture" title="Ivo Leitao&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3162#comment-3162" class="permalink" rel="bookmark">Cannot install in eclipse Luna</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/38203/listings" title="Ivo Leitao">Ivo Leitao</a> on Sun, 2015-05-17 05:06</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>I've tried to install from marketplace but when the "Confirm the Selected Features" appear under Tm Terminal 4.0 20150430 (Mars M7)  <a href="http://download.eclipse.org/tm/terminal/marketplace">http://download.eclipse.org/tm/terminal/marketplace</a> there's only a feature (org.eclipse.tm.terminal.feature) which I cannot install</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3165"></a>
+<div class="row comment comment-by-node-author even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3165#comment-3165" class="permalink" rel="bookmark">Works for me, please file a bug for getting more info</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Wed, 2015-05-20 12:23</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hi Ivo, I just tried with a fresh Eclipse LunaSR2 JEE package on Linux x86_64, used Help &gt; Marketplace to install Terminal into it ... no issues, works fine for me. Can you please report a bug on <a href="http://eclip.se/4a">http://eclip.se/4a</a> and let us know the exact version of Luna you use, your host platform, as well as any error messages from Window &gt; Show View &gt; Other &gt; Error Log. Thanks !</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div><a id="comment-3152"></a>
+<div class="row comment odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/6067" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/33635e15167f05d6489abe93a247f124.jpg?d=mm&amp;s=100&amp;r=G" alt="Johan Wannheden&#039;s picture" title="Johan Wannheden&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3152#comment-3152" class="permalink" rel="bookmark">Terminal does not start with custom shell</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/6067/listings" title="Johan Wannheden">Johan Wannheden</a> on Fri, 2015-05-08 05:35</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Even though I have configured the custom shell in the preferences, a new Terminal does not start it automatically. (Example: Git bash).</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3156"></a>
+<div class="row comment comment-by-node-author even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3156#comment-3156" class="permalink" rel="bookmark">Known issue, custom shells are for Rightclick &gt; Show In only</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Tue, 2015-05-12 04:10</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hi Johan,</p>
+<p>many thanks for your feedback. I think your request is a known issue, as of today the custom shells only affect the rightclick &gt; Show In menu which makes them a bit hard to use. See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=460496">https://bugs.eclipse.org/bugs/show_bug.cgi?id=460496</a> and check whether the proposal matches your needs.</p>
+<p>Thanks!<br />
+Martin</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3212"></a>
+<div class="row comment odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/38703" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/1d9d88f4102d0f5a65afa7577e74dc0e.jpg?d=mm&amp;s=100&amp;r=G" alt="Timothy Truckle&#039;s picture" title="Timothy Truckle&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3212#comment-3212" class="permalink" rel="bookmark">custom shell not visible in &quot;show in&quot;</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/38703/listings" title="Timothy Truckle">Timothy Truckle</a> on Tue, 2015-06-30 08:25</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>I configured git bash on my windows7 PC in Eclipse/Mars</p>
+<p>I even restarted eclipse but I do not see the entry for the git command in the "show in" submenu regardless whether I click on a Project, a folder or on a resource.</p>
+<p>what could have gone wrong?</p>
+<p>bye<br />
+TT</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3214"></a>
+<div class="row comment comment-by-node-author even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3214#comment-3214" class="permalink" rel="bookmark">&quot;Show In&quot; doesn&#039;t work on Java projects</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Tue, 2015-06-30 15:25</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=467048">https://bugs.eclipse.org/bugs/show_bug.cgi?id=467048</a></p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div><a id="comment-3171"></a>
+<div class="row comment odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/6067" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/33635e15167f05d6489abe93a247f124.jpg?d=mm&amp;s=100&amp;r=G" alt="Johan Wannheden&#039;s picture" title="Johan Wannheden&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3171#comment-3171" class="permalink" rel="bookmark">Good proposal</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/6067/listings" title="Johan Wannheden">Johan Wannheden</a> on Fri, 2015-05-22 02:13</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>As commented in the Bugzilla issue.</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div></div><a id="comment-3144"></a>
+<div class="row comment even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/38029" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/59873d5c010ca863c32c41281faf81bc.jpg?d=mm&amp;s=100&amp;r=G" alt="nimo mayr&#039;s picture" title="nimo mayr&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3144#comment-3144" class="permalink" rel="bookmark">java.lang.NoClassDefFoundError: org/eclipse/cdt/utils/pty/PTY$Mo</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/38029/listings" title="nimo mayr">nimo mayr</a> on Thu, 2015-04-30 04:21</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>I am using Eclipse Luna SR2 and installed this plugin (v 1.3.0.201...). It does not work. When open a new local terminal, the following error is shown:</p>
+<p>org.eclipse.e4.core.di.InjectionException: java.lang.NoClassDefFoundError: org/eclipse/cdt/utils/pty/PTY$Mode<br />
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:62)<br />
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247)<br />
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:229)<br />
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)<br />
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:149)<br />
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)<br />
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)<br />
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)<br />
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:825)<br />
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:701)<br />
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$6(HandledContributionItem.java:685)<br />
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:613)<br />
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)<br />
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4199)<br />
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)<br />
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)<br />
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)<br />
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)<br />
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4042)<br />
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3669)<br />
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)<br />
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)<br />
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)<br />
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)<br />
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)<br />
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)<br />
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)<br />
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)<br />
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)<br />
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)<br />
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)<br />
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)<br />
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)<br />
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)<br />
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+	at java.lang.reflect.Method.invoke(Method.java:497)<br />
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)<br />
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)<br />
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)<br />
+Caused by: java.lang.NoClassDefFoundError: org/eclipse/cdt/utils/pty/PTY$Mode<br />
+	at org.eclipse.tcf.te.ui.terminals.local.launcher.LocalLauncherDelegate.createTerminalConnector(LocalLauncherDelegate.java:300)<br />
+	at org.eclipse.tcf.te.ui.terminals.services.TerminalService.createTerminalConnector(TerminalService.java:252)<br />
+	at org.eclipse.tcf.te.ui.terminals.services.TerminalService.executeServiceOperation(TerminalService.java:169)<br />
+	at org.eclipse.tcf.te.ui.terminals.services.TerminalService.openConsole(TerminalService.java:267)<br />
+	at org.eclipse.tcf.te.ui.terminals.local.launcher.LocalLauncherDelegate.execute(LocalLauncherDelegate.java:212)<br />
+	at org.eclipse.tcf.te.ui.terminals.internal.handler.LaunchTerminalCommandHandler.execute(LaunchTerminalCommandHandler.java:85)<br />
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294)<br />
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)<br />
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+	at java.lang.reflect.Method.invoke(Method.java:497)<br />
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)<br />
+	... 40 more<br />
+Caused by: java.lang.ClassNotFoundException: org.eclipse.cdt.utils.pty.PTY$Mode cannot be found by org.eclipse.tcf.te.ui.terminals.local_1.3.0.201502201446<br />
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:382)<br />
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)<br />
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)<br />
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)<br />
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)<br />
+	... 53 more</p>
+<p>Another thing is: Why reinventing a new terminal view? Would be nice to integrate the host terminal within the eclipse view. For example, when opening a word-document within eclipse, then a new window opens with the associated host application within eclipse. How can I make this work with the terminal on mac os? I want to have the host terminal of mac os within the eclipse-window, so I have not switch from one app to another.</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3146"></a>
+<div class="row comment comment-by-node-author odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3146#comment-3146" class="permalink" rel="bookmark">How exactly did you install ?</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Thu, 2015-04-30 15:14</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hello Nimo,</p>
+<p>Your backtrace seems to indicate a missing CDT Fragment. Which Eclipse Luna SR2 package did you start from, and how, exactly, did you install ? - Only installing from the Marketplace Repo is supported at this time and ensures all dependencies are there:</p>
+<p><a href="http://download.eclipse.org/tm/terminal/marketplace">http://download.eclipse.org/tm/terminal/marketplace</a></p>
+<p>For follow-up on your issue, please file a bug at <a href="http://eclip.se/4a">http://eclip.se/4a</a></p>
+<p>Regarding the suggestion to embed the native terminal, I'm afraid that native terminals generally don't support the OLE / DDE APIs that Word has for these kind of things. But we hope that you'll like our integrated Terminal too :)</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div><a id="comment-3124"></a>
+<div class="row comment even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/34241" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/eed8c3753f7e49e57cba6945a9f2f04c.jpg?d=mm&amp;s=100&amp;r=G" alt="Jörg Hohwiller&#039;s picture" title="Jörg Hohwiller&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3124#comment-3124" class="permalink" rel="bookmark">[ctrl][alt][t] is already bound to open type</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/34241/listings" title="Jörg Hohwiller">Jörg Hohwiller</a> on Mon, 2015-04-13 08:36</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>I do not understand why you are using a standard key-binding that is already in use by eclipse (JDT).<br />
+Please consider a different default to avoid clashes. All Java developers are used to [ctrl][alt][t] opening the "open type" popup.</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3131"></a>
+<div class="row comment comment-by-node-author odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3131#comment-3131" class="permalink" rel="bookmark">Hello Jörg, the default</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Fri, 2015-04-17 07:03</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hello Jörg, the default binding for JDT "Open Type" is [ctrl][shift][t] -- our bindings with [ctrl][alt] are usually unbound.<br />
+Perhaps you've been using a custom configuration, or your host has been remapping modifiers in a nonstandard way ?</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div><a id="comment-3123"></a>
+<div class="row comment even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/34241" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/eed8c3753f7e49e57cba6945a9f2f04c.jpg?d=mm&amp;s=100&amp;r=G" alt="Jörg Hohwiller&#039;s picture" title="Jörg Hohwiller&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3123#comment-3123" class="permalink" rel="bookmark">Exception in vanilla Eclipse Luna SR2</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/34241/listings" title="Jörg Hohwiller">Jörg Hohwiller</a> on Mon, 2015-04-13 08:33</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>I just downloaded a fresh Eclipse Luna SR2 JEE Edition for Win64 and TCF. When I open a terminal I get this error:<br />
+java.lang.ClassNotFoundException: org.eclipse.tcf.te.runtime.services.interfaces.ITerminalService cannot be found by org.eclipse.tcf.te.ui.terminals_1.2.0.201405271222<br />
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:432)<br />
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)<br />
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)<br />
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)<br />
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)<br />
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:568)<br />
+	at org.eclipse.tcf.te.runtime.services.ServiceManager.loadServices(ServiceManager.java:116)<br />
+	at org.eclipse.tcf.te.runtime.services.AbstractServiceManager.(AbstractServiceManager.java:300)<br />
+	at org.eclipse.tcf.te.runtime.services.ServiceManager.(ServiceManager.java:40)<br />
+	at org.eclipse.tcf.te.runtime.services.ServiceManager$LazyInstance.(ServiceManager.java:33)<br />
+	at org.eclipse.tcf.te.runtime.services.ServiceManager.getInstance(ServiceManager.java:47)<br />
+	at org.eclipse.tcf.te.ui.terminals.local.launcher.LocalLauncherDelegate.execute(LocalLauncherDelegate.java:127)<br />
+	at org.eclipse.tcf.te.ui.terminals.internal.handler.LaunchTerminalCommandHandler.execute(LaunchTerminalCommandHandler.java:86)<br />
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294)<br />
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)<br />
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+	at java.lang.reflect.Method.invoke(Method.java:497)<br />
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)<br />
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247)<br />
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:229)<br />
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)<br />
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:149)<br />
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)<br />
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)<br />
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)<br />
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:286)<br />
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:507)<br />
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:558)<br />
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:378)<br />
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$0(KeyBindingDispatcher.java:324)<br />
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:86)<br />
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)<br />
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1262)<br />
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)<br />
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)<br />
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1070)<br />
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1112)<br />
+	at org.eclipse.swt.widgets.Text.sendKeyEvent(Text.java:1734)<br />
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1108)<br />
+	at org.eclipse.swt.widgets.Widget.wmKeyDown(Widget.java:1831)<br />
+	at org.eclipse.swt.widgets.Text.wmKeyDown(Text.java:3025)<br />
+	at org.eclipse.swt.widgets.Control.WM_KEYDOWN(Control.java:4975)<br />
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4642)<br />
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2610)<br />
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)<br />
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)<br />
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)<br />
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)<br />
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)<br />
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)<br />
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)<br />
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)<br />
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)<br />
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)<br />
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)<br />
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)<br />
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)<br />
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)<br />
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)<br />
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)<br />
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)<br />
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)<br />
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+	at java.lang.reflect.Method.invoke(Method.java:497)<br />
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)<br />
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)<br />
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)<br />
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+<div class="indented"><a id="comment-3132"></a>
+<div class="row comment comment-by-node-author odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/5868" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/83c90338abba04b0fdf023d5674eee2e.jpg?d=mm&amp;s=100&amp;r=G" alt="Martin Oberhuber&#039;s picture" title="Martin Oberhuber&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/3132#comment-3132" class="permalink" rel="bookmark">Exception due to incomplete install ?</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/5868/listings" title="Martin Oberhuber">Martin Oberhuber</a> on Fri, 2015-04-17 07:09</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hello Jörg, as per your log "org.eclipse.tcf.te.ui.terminals_1.2.0.201405271222" is way too old, so I suspect you created an inconsistent install somehow. The Terminal works fine on top of Luna SR2 JEE, but you need to install it from this Marketplace Listing. Only then will you get the TCF updates from the Mars Stream that Terminal needs to function.<br />
+The Update Site as per the download button is currently <a href="http://download.eclipse.org/tools/tcf/terminals_lunasr2">http://download.eclipse.org/tools/tcf/terminals_lunasr2</a></p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+</div><a id="comment-2969"></a>
+<div class="row comment even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/35724" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/0173d2e5f544bbe85dc12b3f41717608.jpg?d=mm&amp;s=100&amp;r=G" alt="Digant Shah&#039;s picture" title="Digant Shah&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/2969#comment-2969" class="permalink" rel="bookmark">This plugin made my life lot easier</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/35724/listings" title="Digant Shah">Digant Shah</a> on Mon, 2014-10-27 12:17</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>I found this plugin very helpful especially when you have to use windows shell extensively. I give this plugin 5 stars.</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+<a id="comment-2819"></a>
+<div class="row comment odd clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/12220" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/f99ef5f447f44adf89676d7d07a75fb7.jpg?d=mm&amp;s=100&amp;r=G" alt="Wayne Beaton&#039;s picture" title="Wayne Beaton&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/2819#comment-2819" class="permalink" rel="bookmark">Works like a charm on Kepler</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/12220/listings" title="Wayne Beaton">Wayne Beaton</a> on Tue, 2014-05-20 15:19</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>In the process of installing on Eclipse Kepler, I opted to update several TM features (the other option being to install an older version of the terminal support). It works well so far...</p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+<a id="comment-2810"></a>
+<div class="row comment even clearfix">
+
+  <div class="col-xs-5">
+      <div class="user-picture pull-left">
+    <a href="/user/26370" title="View user profile."><img class="media-object dp img-circle img-responsive" src="http://www.gravatar.com/avatar/a0a04207db6387d15010b2c904bfe669.jpg?d=mm&amp;s=100&amp;r=G" alt="Paul Verest&#039;s picture" title="Paul Verest&#039;s picture" /></a>  </div>
+  </div>
+  <div class="col-xs-19">
+    
+        <h3><a href="/comment/2810#comment-2810" class="permalink" rel="bookmark">Hooray!</a></h3>
+    
+    <div class="submitted">
+            <p class="content-last-updated">Submitted by <a href="/user/26370/listings" title="Paul Verest">Paul Verest</a> on Thu, 2014-05-15 22:35</p>    </div>
+
+    <div class="content">
+      <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Finally local terminal for Windows and Linux, see <a href="http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to-run-system-shell-in-the-console/23691697#23691697">http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to...</a></p>
+<p>Please vote for Git Bash on Windows support<br /><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=435014">https://bugs.eclipse.org/bugs/show_bug.cgi?id=435014</a></p>
+</div></div></div>          </div>
+
+      </div>
+</div>
+
+  </div>
+    </div>
+  </div>
+</div>  </div>
+
+</section> <!-- /.block -->
+<div id="block--managed-0" class="block block--managed block-region-content block-0 hidden-xs margin-top-15 margin-bottom-20">
+
+    
+  <div class="content" class="block-content">
+    <div style='text-align:center'><div class='adsense' style='display:inline-block;width:468px;height:60px;'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 468x60 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-6797025590085056"
+     data-ad-slot="0096919806"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>  </div>
+</div>
+  </div>
+                      </div>
+        </section>
+
+                  <aside class="col-sm-6 col-sm-pull-18" role="complementary" id="main-sidebar-first">
+              <div class="region region-sidebar-first solstice-region-element-count-2">
+    <section id="block-marketplace-blocks-marketplace-blocks-categories" class="block block-marketplace-blocks block-region-sidebar-first block-solstice-collapse block-solstice-collapsed block-marketplace-blocks-categories clearfix">
+
+        <h2 class="block-title">Markets</h2>
+    
+  <div class="block-content">
+    <ul class="menu-item-list"><li><a href="/category/markets/eclipse-project">Eclipse Project (40)</a></li>
+<li><a href="/category/markets/tools" class="solstice-menu-collapse solstice-menu-nojs-collapsed">Tools (1584)</a><ul><li><a href="/taxonomy/term/1964%2C31">Application Development Frameworks (187)</a></li>
+<li><a href="/taxonomy/term/28%2C31">Application Management (51)</a></li>
+<li><a href="/taxonomy/term/1%2C31">Application Server (64)</a></li>
+<li><a href="/taxonomy/term/42%2C31">BIRT (20)</a></li>
+<li><a href="/taxonomy/term/4%2C31">Build and Deploy (147)</a></li>
+<li><a href="/taxonomy/term/1973%2C31">Business Intelligence, Reporting and Charting (24)</a></li>
+<li><a href="/taxonomy/term/2%2C31">Code Management (160)</a></li>
+<li><a href="/taxonomy/term/1968%2C31">Collaboration (44)</a></li>
+<li><a href="/taxonomy/term/3%2C31">Database (70)</a></li>
+<li><a href="/taxonomy/term/1970%2C31">Database Development (35)</a></li>
+<li><a href="/taxonomy/term/36%2C31">Database Persistence (32)</a></li>
+<li><a href="/taxonomy/term/5%2C31">Documentation (77)</a></li>
+<li><a href="/taxonomy/term/1963%2C31">EclipseRT Target Platform Components (9)</a></li>
+<li><a href="/taxonomy/term/6%2C31">Editor (355)</a></li>
+<li><a href="/taxonomy/term/7%2C31">Entertainment (23)</a></li>
+<li><a href="/taxonomy/term/1972%2C31">General Purpose Tools (122)</a></li>
+<li><a href="/taxonomy/term/8%2C31">Graphics (44)</a></li>
+<li><a href="/taxonomy/term/24%2C31">IDE (396)</a></li>
+<li><a href="/taxonomy/term/3574%2C31">Internet of Things (IoT) (16)</a></li>
+<li><a href="/taxonomy/term/9%2C31">J2EE Development Platform (91)</a></li>
+<li><a href="/taxonomy/term/27%2C31">J2ME (11)</a></li>
+<li><a href="/taxonomy/term/10%2C31">Languages (172)</a></li>
+<li><a href="/taxonomy/term/1969%2C31">Linux Tools (12)</a></li>
+<li><a href="/taxonomy/term/37%2C31">Logging (22)</a></li>
+<li><a href="/taxonomy/term/1974%2C31">Mobile and Device Development (79)</a></li>
+<li><a href="/taxonomy/term/1971%2C31">Modeling (105)</a></li>
+<li><a href="/taxonomy/term/11%2C31">Modeling Tools (202)</a></li>
+<li><a href="/taxonomy/term/38%2C31">Mylyn Connectors (29)</a></li>
+<li><a href="/taxonomy/term/12%2C31">Network (23)</a></li>
+<li><a href="/taxonomy/term/23%2C31">Other (94)</a></li>
+<li><a href="/taxonomy/term/30%2C31">Process (32)</a></li>
+<li><a href="/taxonomy/term/13%2C31">Profiling (27)</a></li>
+<li><a href="/taxonomy/term/1966%2C31">Programming Languages (100)</a></li>
+<li><a href="/taxonomy/term/39%2C31">Reporting (52)</a></li>
+<li><a href="/taxonomy/term/25%2C31">Rich Client Applications (82)</a></li>
+<li><a href="/taxonomy/term/26%2C31">SCM (25)</a></li>
+<li><a href="/taxonomy/term/40%2C31">Search (53)</a></li>
+<li><a href="/taxonomy/term/1965%2C31">SOA Development (21)</a></li>
+<li><a href="/taxonomy/term/14%2C31">Source Code Analyzer (118)</a></li>
+<li><a href="/taxonomy/term/29%2C31">Systems Development (83)</a></li>
+<li><a href="/taxonomy/term/15%2C31">Team Development (100)</a></li>
+<li><a href="/taxonomy/term/16%2C31">Testing (112)</a></li>
+<li><a href="/taxonomy/term/17%2C31">Tools (732)</a></li>
+<li><a href="/taxonomy/term/18%2C31">UI (133)</a></li>
+<li><a href="/taxonomy/term/19%2C31">UML (72)</a></li>
+<li><a href="/taxonomy/term/20%2C31">Web (156)</a></li>
+<li><a href="/taxonomy/term/21%2C31">Web Services (76)</a></li>
+<li><a href="/taxonomy/term/1967%2C31">Web, XML, Java EE and OSGi Enterprise Development (68)</a></li>
+<li><a href="/taxonomy/term/22%2C31">XML (58)</a></li>
+</ul></li>
+<li><a href="/category/markets/rcp-applications">RCP Applications (177)</a></li>
+<li><a href="/category/markets/training-consulting">Training & Consulting (76)</a></li>
+<li><a href="/category/markets/long-term-support">Long Term Support (11)</a></li>
+</ul>  </div>
+
+</section> <!-- /.block -->
+<section id="block-marketplace-apachesolr-marketplace-apachesolr-sd-search" class="block block-marketplace-apachesolr marketplace-apachesolr-sd-search block-region-sidebar-first block-solstice-collapse block-marketplace-apachesolr-sd-search clearfix">
+
+        <h2 class="block-title">Search</h2>
+    
+  <div class="content-search">
+    <form class="search-form" action="/content/tm-terminal/artifacts.jar" method="post" id="search-form" accept-charset="UTF-8"><div><div class="form-inline form-wrapper form-group" id="edit-basic--2"><input type="hidden" name="get" value="[]" />
+<div class="form-item form-type-textfield form-item-keys">
+<div class="input-group"><input placeholder="Search" class="field-search-key auto_submit form-control form-text" type="text" id="edit-keys--2" name="keys" value="" size="30" maxlength="255" /><span class="input-group-addon"><span class="icon glyphicon glyphicon-refresh" aria-hidden="true"></span></span></div><input type="hidden" id="edit-keys--2-autocomplete" value="http://marketplace.eclipse.org/index.php?q=apachesolr_autocomplete" disabled="disabled" class="autocomplete" />
+</div>
+</div><input type="hidden" name="form_build_id" value="form-u2pG80CgVNFaBTENTOy1tS_i5rimTq4IqhYexA6CSrs" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<fieldset  class="panel-warning collapsible collapsed panel panel-default form-wrapper" id="edit-advanced--2">
+          <legend class="panel-heading">
+      <a href="#" class="panel-title fieldset-legend" data-toggle="collapse" data-target="#edit-advanced--2 > .collapse">Advanced Search</a>
+    </legend>
+          <div class="panel-collapse collapse fade">
+    <div class="panel-body">
+        <div class="form-item form-type-select form-item-category">
+ <label for="edit-category--2">Solutions Categories </label>
+ <select class="form-control form-select" id="edit-category--2" name="category"><option value="0">All</option><option value="1964">Application Development Frameworks</option><option value="28">Application Management</option><option value="1">Application Server</option><option value="42">BIRT</option><option value="4">Build and Deploy</option><option value="1973">Business Intelligence, Reporting and Charting</option><option value="2">Code Management</option><option value="1968">Collaboration</option><option value="3">Database</option><option value="1970">Database Development</option><option value="36">Database Persistence</option><option value="5">Documentation</option><option value="1963">EclipseRT Target Platform Components</option><option value="6">Editor</option><option value="7">Entertainment</option><option value="1972">General Purpose Tools</option><option value="8">Graphics</option><option value="24">IDE</option><option value="3574">Internet of Things (IoT)</option><option value="9">J2EE Development Platform</option><option value="27">J2ME</option><option value="10">Languages</option><option value="1969">Linux Tools</option><option value="37">Logging</option><option value="1974">Mobile and Device Development</option><option value="1971">Modeling</option><option value="11">Modeling Tools</option><option value="38">Mylyn Connectors</option><option value="12">Network</option><option value="23">Other</option><option value="30">Process</option><option value="13">Profiling</option><option value="1966">Programming Languages</option><option value="39">Reporting</option><option value="26">SCM</option><option value="40">Search</option><option value="1965">SOA Development</option><option value="14">Source Code Analyzer</option><option value="29">Systems Development</option><option value="15">Team Development</option><option value="16">Testing</option><option value="17">Tools</option><option value="18">UI</option><option value="19">UML</option><option value="20">Web</option><option value="21">Web Services</option><option value="1967">Web, XML, Java EE and OSGi Enterprise Development</option><option value="22">XML</option></select>
+</div>
+<div class="form-item form-type-select form-item-market">
+ <label for="edit-market--2">Markets </label>
+ <select class="form-control form-select" id="edit-market--2" name="market"><option value="0">All</option><option value="3891">Eclipse Project</option><option value="31">Tools</option><option value="33">RCP Applications</option><option value="34">Training &amp; Consulting</option><option value="3429">Long Term Support</option></select>
+</div>
+<div class="form-item form-type-select form-item-status">
+ <label for="edit-status--2">Status </label>
+ <select class="form-control form-select" id="edit-status--2" name="status"><option value="0">All</option><option value="Production/Stable">Production/Stable</option><option value="Beta">Beta</option><option value="Mature">Mature</option><option value="Alpha">Alpha</option></select>
+</div>
+<div class="form-item form-type-select form-item-license">
+ <label for="edit-license--2">License Type </label>
+ <select class="form-control form-select" id="edit-license--2" name="license"><option value="0">All</option><option value="Commercial">Commercial</option><option value="Commercial - Free">Commercial - Free</option><option value="EPL">EPL</option><option value="GPL">GPL</option><option value="ASL">ASL</option><option value="MIT">MIT</option><option value="BSD-Like">BSD-Like</option><option value="LGPL">LGPL</option><option value="Free for non-commerical use">Free for non-commercial use</option><option value="Other Open Source">Other Open Source</option><option value="Other">Other</option></select>
+</div>
+  </div>
+    </div>
+  </fieldset>
+<button class="btn-warning btn form-submit" type="submit" id="edit-submit--2" name="op" value="Search">Search</button>
+</div></form>  </div>
+
+</section> <!-- /.block -->
+  </div>
+          </aside>
+          <!-- /#sidebar-first -->
+        
+      </div>
+    </div>
+      </main>
+  <p id="back-to-top">
+  <a class="visible-xs" href="#top">Back to the top</a>
+</p>
+
+<footer role="contentinfo" id="solstice-footer">
+  <div class="container">
+    <div class="row">
+
+      <section  id="footer-eclipse-foundation" class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-6 col-md-offset-0 hidden-print">
+                  <h2 class="section-title">Eclipse Foundation</h2><ul class="nav"><li class="link_about first"><a href="//www.eclipse.org/org/">About Us</a></li>
+<li class="link_contact"><a href="//www.eclipse.org/org/foundation/contact.php">Contact Us</a></li>
+<li class="link_donate"><a href="//www.eclipse.org/donate">Donate</a></li>
+<li class="link_gouvernance"><a href="//www.eclipse.org/org/documents/">Governance</a></li>
+<li class="link_logo"><a href="//www.eclipse.org/artwork/">Logo and Artwork</a></li>
+<li class="link_board last"><a href="//www.eclipse.org/org/foundation/directors.php">Board of Directors</a></li>
+</ul>              </section>
+
+      <section  id="footer-legal" class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-6 col-md-offset-0 hidden-print">
+                  <h2 class="section-title">Legal</h2><ul class="nav"><li class="link_publishing_guidelines first"><a href="/content/eclipse-marketplace-publishing-guidelines">Publishing Guidelines</a></li>
+<li class="link_privacy"><a href="//www.eclipse.org/legal/privacy.php">Privacy Policy</a></li>
+<li class="link_terms"><a href="//www.eclipse.org/legal/termsofuse.php">Terms of Use</a></li>
+<li class="link_copyright"><a href="//www.eclipse.org/legal/copyright.php">Copyright Agent</a></li>
+<li class="link_epl"><a href="//www.eclipse.org/org/documents/epl-v10.php">Eclipse Public License</a></li>
+<li class="link_legal last"><a href="//www.eclipse.org/legal/">Legal Resources</a></li>
+</ul>              </section>
+
+      <section  id="footer-useful-links" class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-6 col-md-offset-0 hidden-print">
+                  <h2 class="section-title">Useful Links</h2><ul class="nav"><li class="link_marketplace first"><a href="/content/welcome-eclipse-marketplace">Welcome to Marketplace</a></li>
+<li class="link_bugs"><a href="//bugs.eclipse.org/bugs/">Report a Bug</a></li>
+<li class="link_help"><a href="//help.eclipse.org/">Documentation</a></li>
+<li class="link_contribute"><a href="//www.eclipse.org/contribute/">How to Contribute</a></li>
+<li class="link_mail"><a href="//www.eclipse.org/mail/">Mailing Lists</a></li>
+<li class="link_forums last"><a href="//www.eclipse.org/forums/">Forums</a></li>
+</ul>              </section>
+
+      <section  id="footer-other" class="col-xs-offset-1 col-xs-11 col-sm-7 col-md-6 col-md-offset-0 hidden-print">
+                 <h2 class="section-title">Other</h2><ul class="nav"><li class="link_ide first"><a href="//www.eclipse.org/ide/">IDE and Tools</a></li>
+<li class="link_projects"><a href="//www.eclipse.org/projects">Community of Projects</a></li>
+<li class="link_workinggroups last"><a href="//www.eclipse.org/org/workinggroups/">Working Groups</a></li>
+</ul>         <h2 class="section-title sr-only">Other</h2><ul class="list-inline social-media"><li class="link_twitter first"><a href="//twitter.com/EclipseFdn"><i class="fa fa-twitter-square"></i></a></li>
+<li class="link_google"><a href="//plus.google.com/+Eclipse"><i class="fa fa-google-plus-square"></i></a></li>
+<li class="link_facebook"><a href="//www.facebook.com/eclipse.org"><i class="fa fa-facebook-square"></i></a></li>
+<li class="link_youtube last"><a href="//www.youtube.com/user/EclipseFdn"><i class="fa fa-youtube-square"></i></a></li>
+</ul>            </section>
+
+            <div  id="copyright" class="col-xs-offset-1 col-sm-14 col-md-24 col-md-offset-0">
+         <div>
+           <span class="hidden-print"><a href="https://www.eclipse.org/"><img src="http://marketplace.eclipse.org/sites/all/themes/solstice/public/images/logo/eclipse-logo-bw-800x188.png" alt="Eclipse.org black and white logo" width="166" height="39" class="logo-eclipse-white"/></a></span>
+             <p id="copyright-text">Copyright &copy; 2016 The Eclipse Foundation. All Rights Reserved.</p>
+           </div>
+        </div>
+      
+      <a href="#" class="scrollup">Back to the top</a>
+    </div>
+  </div>
+</footer>
+</div>
+  </body>
+</html>

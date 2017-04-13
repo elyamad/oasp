@@ -1,0 +1,1 @@
+set SETTINGS_REL_PATH=oasp4j\oasp4j-ide\oasp4j-ide-settings\src\main\settings

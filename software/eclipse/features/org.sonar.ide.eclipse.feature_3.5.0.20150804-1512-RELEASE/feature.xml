@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.sonar.ide.eclipse.feature"
+      label="%feature_name"
+      version="3.5.0.20150804-1512-RELEASE"
+      provider-name="%provider_name"
+      plugin="org.sonar.ide.eclipse.ui">
+
+   <description url="http://redirect.sonarsource.com/doc/sonar-eclipse.html">
+      %description
+   </description>
+
+   <copyright url="http://www.sonarsource.com">
+      %copyright
+   </copyright>
+
+   <license url="http://www.gnu.org/licenses/lgpl.txt">
+      %license
+   </license>
+
+   <plugin
+         id="org.sonar.ide.eclipse.core"
+         download-size="83"
+         install-size="157"
+         version="3.5.0.20150804-1512-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonar.ide.eclipse.ui"
+         download-size="177"
+         install-size="319"
+         version="3.5.0.20150804-1512-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonar.ide.eclipse.wsclient"
+         download-size="17"
+         install-size="29"
+         version="3.5.0.20150804-1512-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonar.ide.eclipse.common"
+         download-size="6"
+         install-size="7"
+         version="3.5.0.20150804-1512-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="com.google.guava"
+         download-size="2203"
+         install-size="4786"
+         version="18.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.googlecode.json-simple"
+         download-size="23"
+         install-size="42"
+         version="1.1.1"
+         unpack="false"/>
+
+   <plugin
+         id="org.codehaus.sonar.ws-client"
+         download-size="223"
+         install-size="438"
+         version="4.5.1"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.httpcomponents.httpclient"
+         download-size="1296"
+         install-size="2542"
+         version="4.3.2"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.httpcomponents.httpcore"
+         download-size="589"
+         install-size="1189"
+         version="4.3.2"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.commons.codec"
+         download-size="253"
+         install-size="487"
+         version="1.7.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.codehaus.sonar.runner.sonar-runner-api"
+         download-size="259"
+         install-size="420"
+         version="2.4.0"
+         unpack="false"/>
+
+   <plugin
+         id="findbugsAnnotations"
+         download-size="72"
+         install-size="102"
+         version="2.0.0"
+         unpack="false"/>
+
+</feature>

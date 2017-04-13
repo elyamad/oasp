@@ -1,0 +1,107 @@
+Manifest-Version: 1.0
+Bundle-DocURL: http://asm.objectweb.org
+Implementation-Vendor: France Telecom R&D
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-SymbolicName: org.objectweb.asm
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.objectweb.asm;tag=v201404251740
+Export-Package: org.objectweb.asm;version="5.0.1",org.objectweb.asm.si
+ gnature;version="5.0.1"
+Bundle-Version: 5.0.1.v201404251740
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Implementation-Version: 5.0.1
+Implementation-Title: ASM
+Bundle-ManifestVersion: 2
+
+Name: org/objectweb/asm/Context.class
+SHA1-Digest: aWUNJ5n4VVCbVMUc8Cv76PrdtrA=
+
+Name: org/objectweb/asm/TypeReference.class
+SHA1-Digest: h6mw6wBnMRcTK3dOz+8g3FlqxXg=
+
+Name: org/objectweb/asm/signature/SignatureWriter.class
+SHA1-Digest: vWPNBPiuiUrrQwcTMh5Dq/XIUeA=
+
+Name: org/objectweb/asm/Label.class
+SHA1-Digest: vXXtCWDLOQqTho354RAGbNitJh8=
+
+Name: org/objectweb/asm/Handle.class
+SHA1-Digest: F4h4yKrOmLVuQhBWTixBs/o9CYA=
+
+Name: plugin.properties
+SHA1-Digest: NNhNojNtfCHZTbQPID8JKQoJKSQ=
+
+Name: org/objectweb/asm/ByteVector.class
+SHA1-Digest: cgqvA19U/doH3P30l3qX+LQbPOo=
+
+Name: org/objectweb/asm/AnnotationVisitor.class
+SHA1-Digest: pxvoq3iraCvKoHihx7fHr1qwmWo=
+
+Name: org/objectweb/asm/signature/SignatureReader.class
+SHA1-Digest: Kqov8NJLzKub4/GczGPVBvOUQ+4=
+
+Name: org/objectweb/asm/MethodWriter.class
+SHA1-Digest: BjRsFvyWRnJ3PdaCcPVALM2bF/w=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: Q+8tcUG4ujkxQVlbgZYlx9UvhFA=
+
+Name: org/objectweb/asm/Handler.class
+SHA1-Digest: g/7cgROq+Vn3MhcQ9ALqRK52mVE=
+
+Name: org/objectweb/asm/ClassWriter.class
+SHA1-Digest: bR+OCG5eaXipMkLP4aW5XO02t7I=
+
+Name: org/objectweb/asm/Type.class
+SHA1-Digest: /zwfO6NMgmRCetV+iRIPyzCr0Pk=
+
+Name: org/objectweb/asm/FieldWriter.class
+SHA1-Digest: tWldI2GpfZqlb4vRVJssal2QnVo=
+
+Name: org/objectweb/asm/MethodVisitor.class
+SHA1-Digest: V7CAj86PSMUTb2j0bsu95AAmz2o=
+
+Name: org/objectweb/asm/Edge.class
+SHA1-Digest: zPhU4kuh2C3K2hX7JxP3HRTWciQ=
+
+Name: org/objectweb/asm/TypePath.class
+SHA1-Digest: MA6ZzErlmyWXUOOjuogIAUazb30=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/objectweb/asm/AnnotationWriter.class
+SHA1-Digest: PUpfihRGa/3/Q3TMIaAyxFtWI7s=
+
+Name: org/objectweb/asm/ClassReader.class
+SHA1-Digest: VE7Wu0UflgaKkmlgoEbWjYVXSe4=
+
+Name: about.html
+SHA1-Digest: s+Vv25QPFZSDvtLRns3dzrPn9ok=
+
+Name: org/objectweb/asm/Attribute.class
+SHA1-Digest: 82SW1PTWHxk39AEcj7hwtQo5a/A=
+
+Name: org/objectweb/asm/signature/SignatureVisitor.class
+SHA1-Digest: 0FCGjJ5JqYWfoW0abjpjZiDTUTU=
+
+Name: org/objectweb/asm/Item.class
+SHA1-Digest: JBXfx894991yAiey+hM9OPD7GV0=
+
+Name: org/objectweb/asm/Opcodes.class
+SHA1-Digest: 5FdkILucq7lFtd/PHOTY8nGtsio=
+
+Name: org/objectweb/asm/FieldVisitor.class
+SHA1-Digest: gbjKvrGJlOcDrinr1YP/D8j1LPY=
+
+Name: org/objectweb/asm/ClassVisitor.class
+SHA1-Digest: d+QagjAF184rMVwLxR+8j+T9qiI=
+
+Name: about_files/README.txt
+SHA1-Digest: g+hfjp6RL2xeop0L2gLHmlqdZkM=
+
+Name: org/objectweb/asm/Frame.class
+SHA1-Digest: 6/71RsIJrfQemwAwqRjBpy26iTU=
+

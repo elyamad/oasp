@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature version="6.11.1.201510102004"
+      id="net.sf.eclipsecs"
+      label="%feature.label"
+      provider-name="%feature.provider_name"
+      plugin="net.sf.eclipsecs.branding">
+
+   <description url="%description.url">
+      %description.text
+   </description>
+
+   <copyright>
+      %copyright.text
+   </copyright>
+
+   <license url="license.html">
+      %license.text
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://eclipse-cs.sf.net/update"/>
+   </url>
+
+   <requires>
+      <import plugin="org.eclipse.core.runtime" version="3.2.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.resources"/>
+      <import plugin="org.eclipse.jdt.core"/>
+      <import plugin="org.eclipse.team.core"/>
+      <import plugin="org.eclipse.core.filebuffers"/>
+      <import plugin="org.eclipse.jface.text"/>
+      <import plugin="org.eclipse.jdt.ui"/>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.ui.editors"/>
+      <import plugin="org.eclipse.ui.ide"/>
+      <import plugin="org.eclipse.ui.workbench.texteditor"/>
+   </requires>
+   
+   <plugin
+         id="net.sf.eclipsecs.branding"
+         download-size="3"
+         install-size="3"
+         version="6.11.1.201510102004"
+         unpack="false"/>
+
+   <plugin
+         id="net.sf.eclipsecs.core"
+         download-size="579"
+         install-size="870"
+         version="6.11.1.201510102004"
+         unpack="true"/>
+
+   <plugin
+         id="net.sf.eclipsecs.doc"
+         download-size="3067"
+         install-size="4698"
+         version="6.11.1.201510102004"
+         unpack="false"/>
+
+   <plugin
+         id="net.sf.eclipsecs.checkstyle"
+         download-size="4838"
+         install-size="5651"
+         version="6.11.1.201510102004"/>
+
+   <plugin
+         id="net.sf.eclipsecs.ui"
+         download-size="2147"
+         install-size="2768"
+         version="6.11.1.201510102004"
+         unpack="true"/>
+
+</feature>
