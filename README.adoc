@@ -13,7 +13,6 @@ If you want to install full OASP IDE and get both server and client code please 
 
 = IDE Setup
 
-
 1. Open console.bat and check out the git repositories you need to work on into $projectLoc\workspaces\main. with the following commands:
 
 ....
@@ -22,15 +21,14 @@ git clone --recursive https://github.com/oasp/oasp4j.git
 git clone https://github.com/oasp/oasp4js.git
 ....
 
+
 2. Run the script $projectLoc\update-all-workspaces.bat.
 
 3. Run the script $projectLoc\eclipse-main.bat to start the Eclipse IDE.
 
 4. In Eclipse select File > Import > Maven > and Import existing Maven Project and then choose the cloned projects from your workspace. Root Directory: $projectLoc\workspaces\main. You can also click the Browse button and select the folder structure. (If there is a exception: Auto share git projects (Waiting) - choose Run in Background)
 
-5. Execute the application by starting the ´io.oasp.gastronomy.restaurant.SpringBootApp´. Select the class and click the right mouse button. In the context menu select the entry 'Run as ⇒ Java Application' (or 'Debug as …​'). The application starts up and creates log entries in the Eclipse Console Tab.
-
-Once started, the OASP server applications runs on http://localhost:8081 with /oasp4j-sample-server/ as context-root. Access Server on base url: http://localhost:8081/oasp4j-sample-server, login with waiter/waiter and have a look at the services list provided.
+5. Execute the application by starting the ´io.oasp.gastronomy.restaurant.SpringBootApp´. Select the class and click the right mouse button. In the context menu select the entry 'Run as ⇒ Java Application' (or 'Debug as …​'). The application starts up and creates log entries in the Eclipse Console Tab. Once started, the OASP server applications runs on http://localhost:8081 with /oasp4j-sample-server/ as context-root. Access Server on base url: http://localhost:8081/oasp4j-sample-server, login with waiter/waiter and have a look at the services list provided.
 
 6. If you want to properly test the example application you might want to build the OASP4js-client as follows:
 
