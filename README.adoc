@@ -34,9 +34,9 @@ Once started, the OASP server applications runs on http://localhost:8081 with /o
 
 6. If you want to properly test the example application you might want to build the OASP4js-client as follows:
 
-i. Run console.bat.
+ ** Run console.bat.
 
-ii. Now call the following commands:
+ ** Now call the following commands:
 
 ....
 cd workspaces/main/oasp4js/
@@ -49,7 +49,7 @@ mvn install
 
 If [INFO] BUILD SUCCESS → next step
 
-iii. You can then extract the client from oasp4js/java/target/oasp4js-sample-*-web.zip into oasp4j/oasp4j-samples/oaps4j-sample-server/src/main/webapp/jsclient. You may have to create the folder jsclient by yourself. Restart your tomcat and open http://localhost:8081/oasp4j-sample-server/ or for simpler development run both tomcat and a grunt-server as overlay via:
+ ** You can then extract the client from oasp4js/java/target/oasp4js-sample-*-web.zip into oasp4j/oasp4j-samples/oaps4j-sample-server/src/main/webapp/jsclient. You may have to create the folder jsclient by yourself. Restart your tomcat and open http://localhost:8081/oasp4j-sample-server/ or for simpler development run both tomcat and a grunt-server as overlay via:
 
 ....
 cd workspaces/main/oasp4js
