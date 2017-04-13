@@ -3,7 +3,7 @@ The sample application is built on top of the https://github.com/oasp/oasp4js-ap
 
 == Getting Started
 
-To get started you need to clone both the `oasp4j` and `oasp4js` repositories containing the server and the client part respectively. Each of them is to be built and started to talk to each other it. There are two ways to get the sample application working: eithter by getting the https://github.com/oasp/oasp4j/wiki/oasp-ide-setup[oasp IDE] and running it from there or setting up the IDE manually. 
+To get started you need to clone both the `oasp4j` and `oasp4js` repositories containing the server and the client part respectively. Each of them is to be built and started to talk to each other it. There are two ways to get the sample application working: eithter by getting the https://github.com/elyamad/oasp[oasp IDE] and running it from there or setting up the IDE manually. 
 
 = Full oasp IDE installation
 
