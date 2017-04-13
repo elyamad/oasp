@@ -17,8 +17,8 @@ If you want to install full OASP IDE and get both server and client code please 
 
 ....
 cd workspaces/main
-git clone --recursive https://github.com/oasp/oasp4j.git
-git clone https://github.com/oasp/oasp4js.git
+git clone --recursive https://github.com/oasp/oasp4j oaspj4
+git clone https://github.com/oasp/oasp4js oasp4j
 ....
 
 
