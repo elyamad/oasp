@@ -35,6 +35,7 @@ Once started, the OASP server applications runs on http://localhost:8081 with /o
 6. If you want to properly test the example application you might want to build the OASP4js-client as follows:
 
 i. Run console.bat.
+
 ii. Now call the following commands:
 
 ....
